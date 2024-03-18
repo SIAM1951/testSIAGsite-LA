@@ -1,0 +1,1889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SIAG-LA</title>
+    <description>Web site of the SIAM Activity Group on Linear Algebra.
+</description>
+    <link>http://siags.siam.org/siagla//</link>
+    <atom:link href="http://siags.siam.org/siagla//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 24 Feb 2018 11:00:24 -0500</pubDate>
+    <lastBuildDate>Sat, 24 Feb 2018 11:00:24 -0500</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>SIAG LA digest</title>
+        <description>&lt;p&gt;The deadline for submitting proposals for the 2021 SIAM Conference on Applied Linear Algebra has been extended to Februrary 16.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;CONTENTS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav0&quot;&gt;The SIAG/LA Officers seek input on a location for the 2021 SIAM Conference on Applied Linear Algebra&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav1&quot;&gt;SIAG/LA sponsored sessions at the upcoming SIAM Annual Meeting&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav2&quot;&gt;C++ API for Batch BLAS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav3&quot;&gt;23rd ILAS meeting, June 22-26 2020, National University of Ireland Galway&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav4&quot;&gt;Postdoc position at Tottori University in Japan for interdisciplinary research between information science and material science on supercomputers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav5&quot;&gt;PhD/Postdoc Positions, Low-Rank Matrix Approximations, University of Mons&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav6&quot;&gt;Postdoctoral Position, Computational Machine Learning, Los Alamos National Laboratory&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav7&quot;&gt;Givens Associate program at Argonne for PhD students&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav8&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-siagla-officers-seek-input-on-a-location-for-the-2021-siam-conference-on-applied-linear-algebra&quot;&gt;&lt;a name=&quot;nav0&quot;&gt;The SIAG/LA Officers seek input on a location for the 2021 SIAM Conference on Applied Linear Algebra&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The deadline for submitting input has been extended to 16 February, 2018.&lt;/p&gt;
+
+&lt;p&gt;Recommendations for locations within North America need not have a
+local organizing committee, but it would be helpful to provide
+justification on why the particular recommended location is a good
+choice for the SIAM ALA Conference. Such recommendations can be
+sent directly to Jim Nagy, SIAG/LA Chair, &lt;a href=&quot;mailto:jnagy@emory.edu&quot;&gt;jnagy@emory.edu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Note that it is possible to run the conference with limited or no SIAM
+support or staff, or to hold the conference outside North America.
+However, in these situations it is important to have a strong local
+organizing team, and a formal proposal needs to be submitted to SIAM.&lt;br /&gt;
+For further details, see:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.siam.org/meetings/proposals/siag_run.php&quot;&gt;http://www.siam.org/meetings/proposals/siag_run.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The deadline for submitting recommendations and/or proposals
+has been extended to 16 February 2018.&lt;/p&gt;
+
+&lt;p&gt;SIAG/LA Team:&lt;br /&gt;
+Jim Nagy, Chair, &lt;a href=&quot;mailto:jnagy@emory.edu&quot;&gt;jnagy@emory.edu&lt;/a&gt;&lt;br /&gt;
+Alison Ramage, Vice Chair, &lt;a href=&quot;mailto:a.ramage@strath.ac.uk&quot;&gt;a.ramage@strath.ac.uk&lt;/a&gt;&lt;br /&gt;
+Melina Freitag, Program Director, &lt;a href=&quot;mailto:m.a.freitag@bath.ac.uk&quot;&gt;m.a.freitag@bath.ac.uk&lt;/a&gt;&lt;br /&gt;
+Jen Pestana, Secretary, &lt;a href=&quot;mailto:jennifer.pestana@strath.ac.uk&quot;&gt;jennifer.pestana@strath.ac.uk&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;siagla-sponsored-sessions-at-the-upcoming-siam-annual-meeting&quot;&gt;&lt;a name=&quot;nav1&quot;&gt;SIAG/LA sponsored sessions at the upcoming SIAM Annual Meeting&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;We&amp;#8217;re pleased to announce that the following minisymposia and miniposterium at the &lt;a href=&quot;http://www.siam.org/meetings/an18/&quot;&gt;SIAM Annual Meeting&lt;/a&gt; in Portland, Oregon (July 9-13) will be sponsored by the SIAG/LA:&lt;/p&gt;
+
+&lt;p&gt;Minisymposia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&amp;#8220;Randomized Numerical Algorithms: Foundations and Practice&amp;#8221;, organised by Ilse Ipsen&lt;/li&gt;
+  &lt;li&gt;&amp;#8220;Numerical Range, Numerical Radius and K-Spectral Sets&amp;#8221;, organised by Michael Overton and Anne Greenbaum&lt;/li&gt;
+  &lt;li&gt;&amp;#8220;Recent Advances in Eigenvalue Solvers&amp;#8221;, organised by Agnieszka Miedlar and Roel Van Beeumen&lt;/li&gt;
+  &lt;li&gt;&amp;#8220;Low-rank tensors and high-dimensional problems&amp;#8221;, organised by Bart Vandereycken and  Vladimir Kazeev&lt;/li&gt;
+  &lt;li&gt;&amp;#8220;Linear Algebra in Network Computations&amp;#8221;, organised by Christine Klymko and Dan Taylor&lt;/li&gt;
+  &lt;li&gt;&amp;#8220;Advances in preconditioned iterative solves for linear systems&amp;#8221;, organised by Chen Greif and Jennifer Pestana&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Miniposterium:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&amp;#8220;Software for Numerical Linear Algebra&amp;#8221;, organised by James Nagy and Sarah Knepper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We hope to see many of you at these sessions!&lt;/p&gt;
+
+&lt;p&gt;The SIAG/LA committee&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;c-api-for-batch-blas&quot;&gt;&lt;a name=&quot;nav2&quot;&gt;C++ API for Batch BLAS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;As part of the ECP SLATE project, we are designing a standard C++ API for Batch
+BLAS. We have published the initial draft of the proposed API as SLATE Working
+Note #4:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.icl.utk.edu/publications/swan-004&quot;&gt;http://www.icl.utk.edu/publications/swan-004&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.icl.utk.edu/publications/series/swans&quot;&gt;http://www.icl.utk.edu/publications/series/swans&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Given the importance of such a standard, we would like to engage the broader
+community in its development. To facilitate this collaboration, we have a SLATE
+user mailing list. You can join this mailing list by going to the following URL:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://groups.google.com/a/icl.utk.edu/forum/#!forum/slate-user&quot;&gt;https://groups.google.com/a/icl.utk.edu/forum/#!forum/slate-user&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Once there, click the &amp;#8220;Apply to join group&amp;#8221; button. Please send any comments to
+&lt;a href=&quot;mailto:slate-user@icl.utk.edu&quot;&gt;slate-user@icl.utk.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We look forward to a fruitful discussion and collaboration.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;23rd-ilas-meeting-june-22-26-2020-national-university-of-ireland-galway&quot;&gt;&lt;a name=&quot;nav3&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.maths.nuigalway.ie/ILAS2020/&quot;&gt;23rd ILAS meeting, June 22-26 2020, National University of Ireland Galway&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;** 23rd ILAS meeting: June 22-26 2020, NUI Galway, Ireland (hold the date) **&lt;/p&gt;
+
+&lt;p&gt;2020 Meeting of the International Linear Algebra Society will be hosted by the School of Mathematics at  NUI Galway, 22-26 June, 2020. Please see &lt;a href=&quot;http://www.nuigalway.ie/visitors&quot;&gt;http://www.nuigalway.ie/visitors&lt;/a&gt; for an impression of the venue.&lt;/p&gt;
+
+&lt;p&gt;Further details will be posted to &lt;a href=&quot;http://www.maths.nuigalway.ie/ILAS2020/&quot;&gt;http://www.maths.nuigalway.ie/ILAS2020/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Niall Madden,&lt;br /&gt;
+On behalf of the Local Organizing Committee&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;postdoc-position-at-tottori-university-in-japan-for-interdisciplinary-research-between-information-science-and-material-science-on-supercomputers&quot;&gt;&lt;a name=&quot;nav4&quot;&gt;Postdoc position at Tottori University in Japan for interdisciplinary research between information science and material science on supercomputers&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;We would like to announce that an PD position in Japan is open
+for interdisciplinary research between information science
+(e.g. HPC, numerical analysis, data science)
+and computational material science on supercomputers. [1]
+The PD will join our team of
+&amp;#8216;Development of fundamental parallel algorithms&amp;#8217; [2],
+a part of the national project of Japan for development of
+the next flagship (&amp;#8216;post-K&amp;#8217;) supercomputer.&lt;/p&gt;
+
+&lt;p&gt;Starting date: April 1, 2018 (Later starting date is negotiable.)
+Deadline: The review process will start immediately and continue
+until the position filled. We may not guarantee the full consideration
+for the application materials sent after 16. Feb. 2018.
+Requirements: PhD degree. The researcher is expected to have
+considerable experiences in computational material science (e.g.
+electronic structure calculation, molecular dynamics simulation) or
+information science (e.g. HPC, numerical analysis, data science).
+Experience of the code development in Fortran and/or Python is
+welcomed (not required). Other details can be found in [1].&lt;/p&gt;
+
+&lt;p&gt;[1] &lt;a href=&quot;http://www.damp.tottori-u.ac.jp/~hoshi/post-K-algo-PD.html&quot;&gt;http://www.damp.tottori-u.ac.jp/~hoshi/post-K-algo-PD.html&lt;/a&gt;&lt;br /&gt;
+[2] &lt;a href=&quot;http://www.damp.tottori-u.ac.jp/~hoshi/post-K-algo.html&quot;&gt;http://www.damp.tottori-u.ac.jp/~hoshi/post-K-algo.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;phdpostdoc-positions-low-rank-matrix-approximations-university-of-mons&quot;&gt;&lt;a name=&quot;nav5&quot;&gt;PhD/Postdoc Positions, Low-Rank Matrix Approximations, University of Mons&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The research group of Nicolas Gillis at the University of Mons (Belgium) is seeking highly qualified candidates for one doctoral and one postdoctoral position funded by the ERC (European Research Council).&lt;/p&gt;
+
+&lt;p&gt;This project, entitled Constrained Low-Rank Matrix Approximations - Theoretical and Algorithmic Developments for Practitioners, focuses on the theory, algorithms and applications of low-dimensional representations of high-dimensional data based on low-rank matrix approximations; see &lt;a href=&quot;https://sites.google.com/site/nicolasgillis/coloramap/overview&quot;&gt;https://sites.google.com/site/nicolasgillis/coloramap/overview&lt;/a&gt; for a description of the project and the objectives. The successful candidate will have the flexibility to choose a topic within the range of this project.&lt;/p&gt;
+
+&lt;p&gt;Your profile is a MSc/PhD in applied mathematics, mathematics, computer science, or a related discipline. You must have an expertise in at least one of these fields: optimization, computational complexity, numerical linear algebra, data mining and machine learning, hyperspectral imaging. You should have excellent programming skills in a numerical language (such as Matlab), and good communications skills, both written and oral, in English.&lt;/p&gt;
+
+&lt;p&gt;The positions remain open until they are filled. The starting date is flexible (ideally in September 2018).&lt;/p&gt;
+
+&lt;p&gt;Please see &lt;a href=&quot;https://sites.google.com/site/nicolasgillis/coloramap/&quot;&gt;https://sites.google.com/site/nicolasgillis/coloramap/&lt;/a&gt; for more details.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;postdoctoral-position-computational-machine-learning-los-alamos-national-laboratory&quot;&gt;&lt;a name=&quot;nav6&quot;&gt;Postdoctoral Position, Computational Machine Learning, Los Alamos National Laboratory&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Geophysics Group (EES-17) in the Earth and Environmental Sciences (EES) Division at Los Alamos National Laboratory (LANL) has an immediate opening for a creative and resourceful postdoc candidate with strong machine learning and computational science skills. The successful candidate will develop novel computational techniques based on machine learning methods, and apply them to geophysical data set for subsurface characterization and monitoring. The term of the appointment is two years, with the option to extend to a third year depending on the performance and funding availability.&lt;/p&gt;
+
+&lt;p&gt;Please see more details and apply here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lanl.jobs/los-alamos-nm/geophysics-and-computational-machine-learning-postdoc/0CC19A6DCC82445287BD081EBC2377F8/job/&quot;&gt;https://lanl.jobs/los-alamos-nm/geophysics-and-computational-machine-learning-postdoc/0CC19A6DCC82445287BD081EBC2377F8/job/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In addition to applying on-line, please send a cover letter detailing qualifications and research interests, a curriculum vitae/resume, and names of three references to Youzuo Lin (&lt;a href=&quot;mailto:ylin@lanl.gov&quot;&gt;ylin@lanl.gov&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;The positions remain open until they are filled.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;givens-associate-program-at-argonne-for-phd-students&quot;&gt;&lt;a name=&quot;nav7&quot;&gt;Givens Associate program at Argonne for PhD students&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Mathematics and Computer Science (MCS) Division at Argonne National Laboratory is developing innovative techniques in numerical computing and computational mathematics. The Givens Associate program is intended to encourage graduate students who are beginning careers in numerical analysis or computational mathematics. Candidates must be in an accredited Ph.D. program in applied mathematics, computer science, computational science, statistics, or a related field at a U.S. university (U.S. citizenship is not required).&lt;/p&gt;
+
+&lt;p&gt;Givens Associates will work actively with MCS scientists designing, analyzing, and implementing numerical and statistical algorithms.  For further information about particular applied mathematics, numerical software, and statistics research areas in MCS, see &lt;a href=&quot;http://www.mcs.anl.gov/group/applied-mathematics&quot;&gt;http://www.mcs.anl.gov/group/applied-mathematics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The deadline for all application materials is March 1, 2018. Please see complete details at &lt;a href=&quot;http://www.anl.gov/education/graduates/givens-summer-associate-program&quot;&gt;http://www.anl.gov/education/graduates/givens-summer-associate-program&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;submissions-for-next-siam-la-digest&quot;&gt;&lt;a name=&quot;nav8&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The next SIAM-LA Digest is due to be sent out on Mar 05, 2018.
+Please send any postings for the next Digest to siam-la at siam.org. 
+Only SIAG/LA members may submit postings.  To contact the list owner, 
+send an email to siam-la-owner at siam.org.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 05 Feb 2018 00:00:00 -0500</pubDate>
+        <link>http://siags.siam.org/siagla//2018/02/05/digest.html</link>
+        <guid isPermaLink="true">http://siags.siam.org/siagla//2018/02/05/digest.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SIAG LA digest</title>
+        <description>&lt;p&gt;Happy New Year from the SIAG/LA committee! We hope 2018 is a great year for all of you.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;CONTENTS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav0&quot;&gt;15th Copper Mountain Conference on Iterative Methods (2nd announcement)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav1&quot;&gt;Computational Methods for Inverse Problems in Imaging, May 21 - July 20, 2018, University of Insubria&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav2&quot;&gt;Sixth IMA Conference on Numerical Linear Algebra and Optimization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav3&quot;&gt;Faculty position in Mathematical Biology at UCLA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav4&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;15th-copper-mountain-conference-on-iterative-methods-2nd-announcement&quot;&gt;&lt;a name=&quot;nav0&quot;&gt;15th Copper Mountain Conference on Iterative Methods (2nd announcement)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Fifteenth Copper Mountain Conference on Iterative Methods&lt;/p&gt;
+
+&lt;p&gt;March 25th - March 30, 2018
+Copper Mountain, Colorado, USA&lt;/p&gt;
+
+&lt;p&gt;SECOND ANNOUNCEMENT&lt;/p&gt;
+
+&lt;p&gt;The Copper Mountain Conference on Iterative Methods, held every other
+year, is the premiere conference on all aspects of iterative solution
+methods and their applications. The meeting is organized in cooperation
+with SIAM.&lt;/p&gt;
+
+&lt;p&gt;Important Deadlines:&lt;/p&gt;
+
+&lt;p&gt;Student competition papers: January 10, 2018&lt;br /&gt;
+(reserved to students who submitted an abstract by December 13, 2017)&lt;/p&gt;
+
+&lt;p&gt;Author abstracts: January 15, 2018&lt;/p&gt;
+
+&lt;p&gt;Early registration: January 19, 2018&lt;/p&gt;
+
+&lt;p&gt;Lodging: Please reserve early as rooms are limited (we recommend
+booking no later than February 21 as any unclaimed rooms
+will be released after that date)&lt;/p&gt;
+
+&lt;p&gt;Tutorial: on Sunday, March 25, starting at 1PM there will be a 3-4 hours 
+tutorial led by
+Van Henson on Iterative Methods for Data Analysis, aimed at 
+graduate-level reasearch
+assistants in numerical analysis. Topics include: solvers and 
+preconditioning for graph
+problems, matrix functions for graph analysis, spectral partitioning, 
+eigenvector properties,
+impact of skewed degree distributions, ranking algorithms, Markov 
+chains, etc.&lt;/p&gt;
+
+&lt;p&gt;For additional information, see&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://grandmaster.colorado.edu/~copper/2018&quot;&gt;http://grandmaster.colorado.edu/~copper/2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;computational-methods-for-inverse-problems-in-imaging-may-21---july-20-2018-university-of-insubria&quot;&gt;&lt;a name=&quot;nav1&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://scienze-como.uninsubria.it/masi3a/CMIPI2018/&quot;&gt;Computational Methods for Inverse Problems in Imaging, May 21 - July 20, 2018, University of Insubria&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Organizing Committee is pleased to announce the 
+INDAM intensive bimester program &amp;#8220;Computational Methods for Inverse Problems in Imaging&amp;#8221;,&lt;br /&gt;
+May 21 - July 20, 2018,&lt;br /&gt;
+University of Insubria, Como, Italy.&lt;/p&gt;
+
+&lt;p&gt;The bimester program will start with a Summer School (21-25 May) at Villa del Grumello, Como. 
+The speakers will be: Raymond Chan, Jim Nagy, Jean-Christophe Pesquet and Lothar Reichel. 
+For more informations about the school, please visit the website&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cmip.lakecomoschool.org/&quot;&gt;http://cmip.lakecomoschool.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Registration is open until February 25.&lt;/p&gt;
+
+&lt;p&gt;After the Summer School, the bimester program will continue with thematic weeks:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Optimization techniques for imaging (11-15 June)&lt;/li&gt;
+  &lt;li&gt;Numerical methods for Astronomical Imaging (18-22 June)&lt;/li&gt;
+  &lt;li&gt;Reconstruction methods for sparse-data tomography (25-29 June)&lt;/li&gt;
+  &lt;li&gt;Restoration of Medical Imaging (9-13 July)&lt;br /&gt;
+and it will end with a Workshop (16-18 July).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For any info, as well as for registration, check the website&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://scienze-como.uninsubria.it/masi3a/CMIPI2018/&quot;&gt;http://scienze-como.uninsubria.it/masi3a/CMIPI2018/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Based on the available funds and upon request, financial support for accommodation is available for PhD students and Post-Docs who would require it.&lt;/p&gt;
+
+&lt;p&gt;We look forward to seeing you in Como!&lt;/p&gt;
+
+&lt;p&gt;Marco Donatelli,&lt;br /&gt;
+On behalf of the Organizing Committee&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;sixth-ima-conference-on-numerical-linear-algebra-and-optimization&quot;&gt;&lt;a name=&quot;nav2&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://ima.org.uk/7149/6thimanlao/&quot;&gt;Sixth IMA Conference on Numerical Linear Algebra and Optimization&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The IMA and the University of Birmingham are pleased to announce the Sixth IMA Conference on Numerical Linear Algebra and Optimization. The meeting is being held in cooperation with SIAM, and SIAM Activity Groups on Optimization and on Linear Algebra. SIAM members will receive the IMA members&amp;#8217; registration rate.&lt;/p&gt;
+
+&lt;p&gt;##Scope##&lt;/p&gt;
+
+&lt;p&gt;The success of modern codes for large-scale optimization is heavily dependent on the use of effective tools of numerical linear algebra. On the other hand, many problems in numerical linear algebra lead to linear, nonlinear or semidefinite optimization problems. The purpose of the conference is to bring together researchers from both communities and to find and communicate points and topics of common interest.
+Conference topics include any subject that could be of interest to both communities, such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Direct and iterative methods for large sparse linear systems&lt;/li&gt;
+  &lt;li&gt;Eigenvalue computation and optimization&lt;/li&gt;
+  &lt;li&gt;Large-scale nonlinear and semidefinite programming&lt;/li&gt;
+  &lt;li&gt;Effect of round-off errors, stopping criteria, embedded iterative procedures&lt;/li&gt;
+  &lt;li&gt;Optimization issues for matrix polynomials&lt;/li&gt;
+  &lt;li&gt;Fast matrix computations&lt;/li&gt;
+  &lt;li&gt;Compressed/sparse sensing&lt;/li&gt;
+  &lt;li&gt;PDE-constrained optimization&lt;/li&gt;
+  &lt;li&gt;Distributed computing and optimization&lt;/li&gt;
+  &lt;li&gt;Applications and real time optimization&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Invited speakers&lt;/em&gt;: Amir Beck (Technion Haifa); Julian Hall (University of Edinburgh); Misha Kilmer (Tufts University); Dominique Orban (Polytechnique Montr&amp;eacute;al); Alison Ramage (University of Strathclyde); Fran&amp;ccedil;oise Tisseur (University of Manchester); Luis Nunes Vicente (University of Coimbra); Steve Wright (University of Wisconsin)&lt;/p&gt;
+
+&lt;p&gt;Organising committee: Michal Ko&amp;amp;ccaron;vara, University of Birmingham (co-chair); Daniel Loghin, University of Birmingham (co-chair); Coralia Cartis, University of Oxford; Nick Gould, Rutherford Appleton Laboratory; Philip Knight, University of Strathclyde; Jennifer Scott, University of Reading and Rutherford Appleton Laboratory
+The conference will be hosted by the University of Birmingham. Talks will take place in the School of Mathematics.&lt;/p&gt;
+
+&lt;p&gt;Instructions for authors: Mini-symposium proposals and contributed talks are invited on all aspects of numerical linear algebra and optimization. Mini-symposium proposals should be submitted to conferences@ima.org.uk by 31 January 2018. A mini-symposium consists of up to four speakers. For emerging topics the mini-symposium can be extended to at most two sessions on a single topic (maximum eight speakers). Organisers will be advised of acceptance by 12 February 2018. Contributed talks and mini-symposia talks will be accepted on the basis of a one page extended abstract which should be submitted by 28 February 2018 online at https://my.ima.org.uk. Authors will be advised of acceptance by 31 March 2018. A book of abstracts will be made available to delegates at the conference.&lt;/p&gt;
+
+&lt;p&gt;Key dates&lt;/p&gt;
+
+&lt;p&gt;Mini-symposia proposals: 31 January 2018&lt;br /&gt;
+Notification of acceptance of mini-symposia: 12 February 2018&lt;br /&gt;
+Abstract submission: 28 February 2018&lt;br /&gt;
+Notification of acceptance of abstracts: 31 March 2018&lt;br /&gt;
+Conference: 27-29 June 2018&lt;br /&gt;
+Conference webpage: &lt;a href=&quot;https://ima.org.uk/7149/6thIMANLAO/&quot;&gt;https://ima.org.uk/7149/6thIMANLAO/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For further information or to register your interest in this conference, please contact Lizzi Lake, Conference Officer: email &lt;a href=&quot;mailto:conferences@ima.org.uk&quot;&gt;conferences@ima.org.uk&lt;/a&gt;, tel 44 (0) 1702 354 020, Institute of Mathematics and its Applications, Catherine Richards House, 16 Nelson Street, Southend-on-Sea, Essex, SS1 1EF, UK.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;faculty-position-in-mathematical-biology-at-ucla&quot;&gt;&lt;a name=&quot;nav3&quot;&gt;Faculty position in Mathematical Biology at UCLA&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Division of Life Sciences at the University of California, Los 
+Angeles is searching for a mathematical biologist, a full-time 
+tenure-track/tenure (open rank) faculty appointment, to be affiliated with 
+the Institute for Quantitative and Computational Biosciences and hold a
+faculty appointment in one of the Life Science departments: Ecology and
+Evolutionary Biology, Integrative Biology and Physiology, Microbiology,
+Immunology and Molecular Genetics, or Molecular, Cell and Developmental
+Biology.&lt;/p&gt;
+
+&lt;p&gt;Please see &lt;a href=&quot;https://recruit.apo.ucla.edu/apply/JPF03420&quot;&gt;https://recruit.apo.ucla.edu/apply/JPF03420&lt;/a&gt; for further information.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;submissions-for-next-siam-la-digest&quot;&gt;&lt;a name=&quot;nav4&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The next SIAM-LA Digest is due to be sent out on Feb 05, 2018.
+Please send any postings for the next Digest to siam-la at siam.org. 
+Only SIAG/LA members may submit postings.  To contact the list owner, 
+send an email to siam-la-owner at siam.org.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+        <link>http://siags.siam.org/siagla//2018/01/01/digest.html</link>
+        <guid isPermaLink="true">http://siags.siam.org/siagla//2018/01/01/digest.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SIAG LA digest</title>
+        <description>&lt;p&gt;SIAG/LA is calling for sponsored minisymposia and miniposteria at the upcoming annual meeting. Please get in touch for more information!&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;CONTENTS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav0&quot;&gt;SIAG/LA sponsored minisymposium/ miniposterium at SIAM Annual Meeting&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav1&quot;&gt;2018 Gene Golub SIAM Summer School on Inverse Problems - Call for Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav2&quot;&gt;Los Alamos National Laboratory Summer School on Geosciences and Machine Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav3&quot;&gt;CM2018 Student Paper Competition&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav4&quot;&gt;Parallel Matrix Algorithms and Applications (PMAA&amp;#8217;18), Jun 27-29, 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav5&quot;&gt;Numerical Analysis and Scientific Computing opening, Computer Science, University of Toronto&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav6&quot;&gt;Two Tenure-Track Assistant Professor positions at The University of Akron&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav7&quot;&gt;Chair, Department of Mathematics, University of Texas at San Antonio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav8&quot;&gt;PhD position at University of Strathclyde&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav9&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;siagla-sponsored-minisymposium-miniposterium-at-siam-annual-meeting&quot;&gt;&lt;a name=&quot;nav0&quot;&gt;SIAG/LA sponsored minisymposium/ miniposterium at SIAM Annual Meeting&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The SIAG/LA committee are looking to sponsor a small number of minisymposia and/or miniposteria at the SIAM Annual Meeting in Portland, Oregon, July 9-13, 2018. These will be advertised as being sponsored by the SIAG/LA. Please note, however, that no financial contribution can be provided.&lt;/p&gt;
+
+&lt;p&gt;Members who are thinking of submitting a minisymposium/miniposterium proposal for the annual meeting, who would like to be considered for sponsorship, are invited to contact Melina Freitag (&lt;a href=&quot;mailto:m.freitag@maths.bath.ac.uk&quot;&gt;m.freitag@maths.bath.ac.uk&lt;/a&gt;) by  December 31.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2018-gene-golub-siam-summer-school-on-inverse-problems---call-for-applications&quot;&gt;&lt;a name=&quot;nav1&quot;&gt;2018 Gene Golub SIAM Summer School on Inverse Problems - Call for Applications&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;2018 Gene Golub SIAM Summer School&lt;br /&gt;
+Inverse Problems: Systematic Integration of Data with Models under Uncertainty&lt;br /&gt;
+June 17-30, 2018&lt;br /&gt;
+Breckenridge, Colorado, USA
+&lt;a href=&quot;http://g2s3.com&quot;&gt;http://g2s3.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Applications are now being accepted for the 2018 Gene Golub SIAM
+Summer School (G2S3 2018), which will take place June 17-30, 2018, in
+Breckenridge, Colorado, USA. The summer school aims to introduce
+graduate students to the mathematical and computational aspects of
+inverse problems, particularly modern developments that emphasize the
+quantification of uncertainty in the inverse solution within the
+framework of Bayesian inference. Applicants selected to participate
+pay no registration fee, and costs of local accommodation and meals
+will be covered for all participants. In addition, (at least partial)
+travel support will be provided upon request.&lt;/p&gt;
+
+&lt;p&gt;Applications are being accepted now through February 1, 2018 via
+Mathprograms (&lt;a href=&quot;https://www.mathprograms.org/db/programs/608&quot;&gt;https://www.mathprograms.org/db/programs/608&lt;/a&gt;). More
+information is available on the G2S3 2018 website (&lt;a href=&quot;http://g2s3.com&quot;&gt;http://g2s3.com&lt;/a&gt;).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;los-alamos-national-laboratory-summer-school-on-geosciences-and-machine-learning&quot;&gt;&lt;a name=&quot;nav2&quot;&gt;Los Alamos National Laboratory Summer School on Geosciences and Machine Learning&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;We are excited to announce 2018 Los Alamos National Laboratory Applied Research in Earth Sciences (ARiES)/Applied Machine Learning Summer School. The theme topic for this year is &amp;#8220;Machine Learning for Geosciences.&amp;#8221; We are currently accepting applications. Successful applicants will receive prestigious research fellowship, hands-on technical training experiences and professional development from internationally reputable geophysics, space and computational scientists.&lt;/p&gt;
+
+&lt;p&gt;For more information about our summer school, project and mentor information, please visit our summer school website at &lt;a href=&quot;http://aml.lanl.gov&quot;&gt;http://aml.lanl.gov&lt;/a&gt;. Applications must be submitted by December 15, 2017 for full consideration.&lt;/p&gt;
+
+&lt;p&gt;Diane, Reid and Youzuo&lt;br /&gt;
+ARiES/AML 2018 Co-Organizers&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;cm2018-student-paper-competition&quot;&gt;&lt;a name=&quot;nav3&quot;&gt;CM2018 Student Paper Competition&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The 15th Copper Mountain Conference On Iterative Methods (March 25-30, 2018)
+invites submissions for the Student Paper Competition. Any current student or 
+new Ph.D. whose degree was awarded after Jan 1, 2017 is invited to submit 
+a paper based on work performed as a full-time student.&lt;/p&gt;
+
+&lt;p&gt;Submissions will be on EasyChair CM2018 Student Paper Competition track.
+A two step process is required with the following deadlines:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Submit an abstract by December 13, 2017.&lt;/li&gt;
+  &lt;li&gt;Submit the paper by January 10, 2018.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For submission links, the required latex template, and more information
+about the competition, the conference, and its themes visit:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://grandmaster.colorado.edu/~copper/2018/&quot;&gt;http://grandmaster.colorado.edu/~copper/2018/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;parallel-matrix-algorithms-and-applications-pmaa18-jun-27-29-2018&quot;&gt;&lt;a name=&quot;nav4&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://pmaa18.ethz.ch/&quot;&gt;Parallel Matrix Algorithms and Applications (PMAA&amp;#8217;18), Jun 27-29, 2018&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;10th INTERNATIONAL WORKSHOP ON 
+PARALLEL MATRIX ALGORITHMS AND APPLICATIONS (PMAA&amp;#8217;18)&lt;/p&gt;
+
+&lt;p&gt;Jun 27-29, 2018, Zurich, Switzerland.  &lt;a href=&quot;http://pmaa18.ethz.ch/&quot;&gt;http://pmaa18.ethz.ch/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This international workshop aims to be a forum for exchanging ideas, insights and experiences in different areas of parallel computing in which matrix algorithms play a key role.  The Workshop will bring together experts and practitioners from diverse disciplines with a common interest in matrix computation.  Topics of interest include, but are not limited to, the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Parallel methods for solving large sparse or dense linear systems of equations and eigenvalue problem&lt;/li&gt;
+  &lt;li&gt;Parallel environments and tools for enabling matrix applications.&lt;/li&gt;
+  &lt;li&gt;Large scale applications from any field that have an emphasis on parallel matrix computation&lt;/li&gt;
+  &lt;li&gt;Novel architectural paradigms (e.g. GPU, MIC, etc.)&lt;/li&gt;
+  &lt;li&gt;Hybrid approaches to parallel programming&lt;/li&gt;
+  &lt;li&gt;Automatic tuning and performance modeling&lt;/li&gt;
+  &lt;li&gt;Combinatorial Scientific Computing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Invited speakers: Chao Yang (Lawrence Berkeley NL), Inderjit Dhillon (UT Austin), Frederic Nataf (UPMC Paris), Edgar Solomonik (UI Urbana-Champaign).&lt;/p&gt;
+
+&lt;p&gt;Co-chairs: Peter Arbenz (ETH Zurich, Rolf Krause (USI Lugano), Daniel Kressner (EPF Lausanne), Olaf Schenk (USI Lugano).&lt;/p&gt;
+
+&lt;p&gt;Important dates:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;March 15, 2018: Submission of Minisymposium proposals by e-mail to &lt;a href=&quot;mailto:pmaa18@ethz.ch&quot;&gt;pmaa18@ethz.ch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;March 30, 2018: Submission of abstracts for MS and contributed talks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For further information contact &lt;a href=&quot;mailto:pmaa18@ethz.ch&quot;&gt;pmaa18@ethz.ch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;numerical-analysis-and-scientific-computing-opening-computer-science-university-of-toronto&quot;&gt;&lt;a name=&quot;nav5&quot;&gt;Numerical Analysis and Scientific Computing opening, Computer Science, University of Toronto&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Department of Computer Science at the University of Toronto invites 
+applications for several tenure-stream faculty positions in&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Numerical Analysis and Scientific Computing&lt;/li&gt;
+  &lt;li&gt;Data Visualization (joint position with the Department of Statistical Sciences)&lt;/li&gt;
+  &lt;li&gt;Robotics&lt;/li&gt;
+  &lt;li&gt;Computer Systems&lt;/li&gt;
+  &lt;li&gt;Knowledge Representation and Reasoning&lt;/li&gt;
+  &lt;li&gt;Computer Science Education&lt;/li&gt;
+  &lt;li&gt;Sustainability and Climate Informatics (joint position with the School of the Environment)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For further information, please go to the website&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://web.cs.toronto.edu/dcs/contact/employmentopp.htm&quot;&gt;http://web.cs.toronto.edu/dcs/contact/employmentopp.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;two-tenure-track-assistant-professor-positions-at-the-university-of-akron&quot;&gt;&lt;a name=&quot;nav6&quot;&gt;Two Tenure-Track Assistant Professor positions at The University of Akron&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Department of Mathematics at The University of Akron invites applications for two tenure-track Assistant Professor positions starting Fall Semester 2018, with priority given to research areas that augment the existing strengths of the Department - applied and computational mathematics, partial differential equations, finite group theory, and geometric combinatorics.  The job responsibilities include teaching and research at the university level.  Preference will be given to candidates whose research has strong connections to applications and potential for collaboration with members of the Department or across campus.  Salary is commensurate with background and experience.  Startup funds are available.&lt;/p&gt;
+
+&lt;p&gt;Applicants must possess a Ph.D. degree in mathematics or a closely related field by the time of employment, and are expected to provide evidence of an active research program, evidence of teaching experience, and interest in directing student research.  Priority will be given to candidates with postdoctoral experience and demonstrated interest in pursuing external funding.&lt;/p&gt;
+
+&lt;p&gt;The Department offers Bachelor&amp;#8217;s and Master&amp;#8217;s degrees in Mathematics and Applied Mathematics, and accelerated BS/MS 5-year programs.  An Engineering Applied Mathematics doctoral program, emphasizing interdisciplinary applied mathematics, is offered through the College of Engineering.  Additional information about the Department and its programs can be found at &lt;a href=&quot;http://www.uakron.edu/math&quot;&gt;http://www.uakron.edu/math&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The University of Akron is a state-assisted metropolitan university in northeast Ohio with approximately 22,000 students.  The University is well-known for its interdisciplinary programs and has a world-class polymer science program as well as widely recognized programs in engineering, science, business and education.  The University has launched a data science initiative housed in the College of Arts and Sciences.&lt;/p&gt;
+
+&lt;p&gt;Applicants should submit an application letter, AMS cover sheet, curriculum vitae, statement of research interests, statement of teaching philosophy, unofficial copy of graduate transcripts, and three letters of recommendation, at least one of which should address teaching.&lt;/p&gt;
+
+&lt;p&gt;References and inquiries should be sent to &lt;a href=&quot;mailto:phoover@uakron.edu&quot;&gt;phoover@uakron.edu&lt;/a&gt;.  Screening of completed applications will begin on December 1, 2017 and continue until the positions are filled.&lt;/p&gt;
+
+&lt;p&gt;For complete details and to apply please visit: &lt;a href=&quot;http://www.uakron.edu/jobs&quot;&gt;http://www.uakron.edu/jobs&lt;/a&gt;. Job ID# 10510&lt;/p&gt;
+
+&lt;p&gt;The University of Akron is an equal education and employment institution. It is the policy of this institution that there shall be no unlawful discrimination against any individual in employment or in its programs or activities at The University of Akron because of race, color, religion, sex, age, national or ethnic origin, sexual orientation, gender identity, disability, genetic information, military status or status as a veteran.  The University is also committed to the principles of affirmative action and acts in accordance with state and federal laws.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;chair-department-of-mathematics-university-of-texas-at-san-antonio&quot;&gt;&lt;a name=&quot;nav7&quot;&gt;Chair, Department of Mathematics, University of Texas at San Antonio&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The University of Texas at San Antonio seeks an innovative and dynamic leader for the Department of Mathematics with demonstrated leadership abilities who will build on departmental strengths, recruit outstanding faculty, promote scholarly initiatives - especially in terms of externally supported grant efforts - and be an advocate to both internal University and external constituencies.   UTSA is a vibrant University aspiring to reach Tier One research status. The Department is located within the College of Sciences and offers a Bachelor degree in Mathematics and Masters Programs in Mathematics, Mathematics Education, and Applied Mathematics-Industrial Mathematics. The Department has 22 full-time faculty with diverse interests and expertise and 33 non-tenured track faculty members. The department is committed to growing and expanding its undergraduate and graduate programs and developing a Ph.D. program. UTSA and the Mathematics Department are committed to supporting a growing diverse student body and encourage applications from women, minorities, and individuals with a commitment to mentoring under-represented demographics in the sciences. Opportunities for interdisciplinary interactions and collaborations exist not only within other departments and within colleges at UTSA, but also with the UT Health Science Center San Antonio, Southwest Research Institute, local military bases, and numerous companies including USAA, Boeing, and Rackspace.  San Antonio, Texas is a vibrant city of more than 1.5 million people, with significant economic growth, numerous industrial establishments and excellent school districts. The city and the University provide excellent cultural and educational opportunities as well as exceptional employment opportunities.&lt;/p&gt;
+
+&lt;p&gt;Position requirements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Degree Requirements: PhD or equivalent in Mathematics. The area of specialization is open&lt;/li&gt;
+  &lt;li&gt;Record of earning tenure at an accredited four-year university&lt;/li&gt;
+  &lt;li&gt;Associate or full professor&lt;/li&gt;
+  &lt;li&gt;Evidence of administrative experience in a higher education setting (center, department, program, director graduate studies, etc.).&lt;/li&gt;
+  &lt;li&gt;A strong record of externally funded and recognized research&lt;/li&gt;
+  &lt;li&gt;Record of teaching effectiveness and mentoring of students including doctoral students&lt;/li&gt;
+  &lt;li&gt;Record of involvement with national/international organizations&lt;/li&gt;
+  &lt;li&gt;An ability to work productively with faculty and students from diverse backgrounds&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Required Application Materials&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Letter of application/narrative statement that describes, in 1 to 3 pages, applicant&amp;#8217;s qualifications for the position and plans for future administrative/research/teaching for the department.&lt;/li&gt;
+  &lt;li&gt;Teaching agenda/statement (max. 2pages)&lt;/li&gt;
+  &lt;li&gt;Research agenda/statement (max. 2 pages)&lt;/li&gt;
+  &lt;li&gt;Curriculum vita&lt;/li&gt;
+  &lt;li&gt;Provide a minimum of 3 references&lt;/li&gt;
+  &lt;li&gt;Sample publications (in PDF format): provide work that is representative of research.&lt;/li&gt;
+  &lt;li&gt;Statement of Administrative Philosophy&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Review of completed applications will begin on November 17, 2017 and continue until the position is filled.&lt;/p&gt;
+
+&lt;p&gt;All applicants should submit their application materials through the &lt;a href=&quot;https://jobs.utsa.edu/postings/7626&quot;&gt;https://jobs.utsa.edu/postings/7626&lt;/a&gt; site.&lt;/p&gt;
+
+&lt;p&gt;UTSA is an Affirmative Action/Equal Employment Opportunity Employer. Women, minorities, veterans, and individuals with disabilities are encouraged to apply. Applicants who are selected for interviews must be able to show proof that they will be eligible and qualified to work in the United States by time of hire.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;phd-position-at-university-of-strathclyde&quot;&gt;&lt;a name=&quot;nav8&quot;&gt;PhD position at University of Strathclyde&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Applications are invited for a fully funded 3 year PhD studentship in numerical linear algebra, under the supervision of Dr Jennifer Pestana and Dr Alison Ramage, at the Department of Mathematics and Statistics at the University of Strathclyde, Glasgow, Scotland. The project will begin 1 March, 2018, or earlier by arrangement.&lt;/p&gt;
+
+&lt;p&gt;This project aims to develop novel preconditioned iterative methods for linear systems arising in the numerical approximation of partial differential equations via radial basis functions (RBFs). These RBF methods are well suited to problems with complex geometries and/or scattered data, such as those occurring in biological and geophysical applications. However, the linear system that must be solved as part of the RBF method becomes increasingly challenging to work with as the approximation is refined. This project will extend previous work on preconditioning RBF systems to provide more efficient and robust solvers for these problems.&lt;/p&gt;
+
+&lt;p&gt;The studentship covers UK/EU tuition fees and comes with an annual tax-free stipend at the standard UK rate. International students who can fund the difference between UK/EU and International fee rates are also encouraged to apply.&lt;/p&gt;
+
+&lt;p&gt;Applicants should have or expect to obtain a good (I or II(i)) honours degree in mathematics or in a related discipline. Experience of numerical mathematics and/or programming would be beneficial.&lt;/p&gt;
+
+&lt;p&gt;For more information please see &lt;a href=&quot;http://siags.siam.org/siagla/jobs.html&quot;&gt;http://siags.siam.org/siagla/jobs.html&lt;/a&gt; or contact Dr Pestana (&lt;a href=&quot;mailto:jennifer.pestana@strath.ac.uk&quot;&gt;jennifer.pestana@strath.ac.uk&lt;/a&gt;).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;submissions-for-next-siam-la-digest&quot;&gt;&lt;a name=&quot;nav9&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The next SIAM-LA Digest is due to be sent out on Jan 01, 2018.
+Please send any postings for the next Digest to siam-la at siam.org. 
+Only SIAG/LA members may submit postings.  To contact the list owner, 
+send an email to siam-la-owner at siam.org.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 04 Dec 2017 00:00:00 -0500</pubDate>
+        <link>http://siags.siam.org/siagla//2017/12/04/digest.html</link>
+        <guid isPermaLink="true">http://siags.siam.org/siagla//2017/12/04/digest.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SIAG LA digest</title>
+        <description>&lt;p&gt;In the digest this month are a number of conference and job announcements, as well as calls for proposals for the 2019 Gene Golub Summer School.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;CONTENTS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav0&quot;&gt;New book, Vector Extrapolation Methods with Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav1&quot;&gt;Call for Proposals: Gene Golub SIAM Summer School 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav2&quot;&gt;GAMM annual meeting 2018, Applied and Numerical Linear Algebra&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav3&quot;&gt;ACM PASC18, Basel, July 02-04, 2018: First Call for Papers, Minisymposia and Posters Submissions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav4&quot;&gt;Postdoctoral Research Fellows at Emory University, Atlanta, GA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav5&quot;&gt;John von Neumann Postdoctoral Fellowship in Computational Science at Sandia National Laboratories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav6&quot;&gt;Tenure-track faculty positions in Computer Science, Courant Institute, NYU&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav7&quot;&gt;Postdoctoral Fellowship in Data Science at AIMS South Africa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav8&quot;&gt;Luis W. Alvarez Postdoctoral Fellowship in Computing Sciences at Berkeley Lab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav9&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;new-book-vector-extrapolation-methods-with-applications&quot;&gt;&lt;a name=&quot;nav0&quot;&gt;New book, Vector Extrapolation Methods with Applications&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Announcing the publication by SIAM of:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vector Extrapolation Methods with Applications&lt;/strong&gt;&lt;br /&gt;
+Avram Sidi &lt;br /&gt;
+&lt;em&gt;Computational Science and Engineering 17&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;An important problem that arises in different disciplines of science and engineering is that of computing limits of sequences of vectors of very large dimension. Such sequences arise, for example, in the numerical solution of systems of linear and nonlinear equations by fixed-point iterative methods, and their limits are simply the required solutions to these systems. The convergence of these sequences, which is very slow in many cases, can be accelerated successfully by using suitable vector extrapolation methods.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Vector Extrapolation Methods with Applications&lt;/em&gt; is the first book fully dedicated to the subject of vector extrapolation methods. It is a self-contained, up-to-date, and state-of-the-art reference on the theory and practice of the most useful methods. It covers all aspects of the subject, including development of the methods, their convergence study, numerically stable algorithms for their implementation, and their various applications. It also provides complete proofs in most places. As an interesting application, the author shows how these methods give rise to rational approximation procedures for vector-valued functions in the complex plane, a subject of importance in model reduction problems among others.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audience&lt;/strong&gt;&lt;br /&gt;
+This book is intended for numerical analysts, applied mathematicians, and computational scientists and engineers in fields such as computational fluid dynamics, structures, and mechanical and electrical engineering, to name a few. Since it provides complete proofs in most places, it can also serve as a textbook in courses on acceleration of convergence of iterative vector processes, for example.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About the Author&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Avram Sidi&lt;/strong&gt; is Professor Emeritus of Numerical Analysis in the Computer Science Department at the Technion-Israel Institute of Technology and the former holder of the Technion Administration Chair in Computer Science. He has published extensively in various areas of numerical analysis and approximation theory, such as convergence acceleration, numerical integration, rational approximation, and asymptotic analysis, convergence acceleration being a major area. He is also the author of the book Practical Extrapolation Methods: Theory and Applications (Cambridge University Press, 2003), which deals exclusively with the acceleration of convergence of scalar sequences. His research has involved the development of novel numerical methods of high accuracy, their rigorous mathematical analysis, design of efficient algorithms for their implementation, and their application to difficult problems. His methods and algorithms are being used successfully in various scientific and engineering disciplines.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Contents&lt;/strong&gt;&lt;br /&gt;
+Chapter 0: Introduction and Review of Linear Algebra; Part I: Vector Extrapolation Methods; Chapter 1: Development of Polynomial Extrapolation Methods; Chapter 2: Unified Algorithms for MPE and RRE; Chapter 3: MPE and RRE are Related; Chapter 4: Algorithms for MMPE and SVD-MPE; Chapter 5: Epsilon Algorithms; Chapter 6: Convergence Study of Extrapolation Methods: Part I; Chapter 7: Convergence Study of Extrapolation Methods: Part II; Chapter 8: Recursion Relations for Vector Extrapolation Methods; Part II: Krylov Sybspace Methods; Chapter 9: Krylov Subspace Methods for Linear Systems; Chapter 10: Krylov Subspace Methods for Eigenvalue Problems; Part III: Applications and Generalizations; Chapter 11: Miscellaneous Applications of Vector Extrapolation Methods; Chapter 12: Rational Approximations from Vector-Valued Power Series: Part I; Chapter 13: Rational Approximations from Vector-Valued Power Series: Part II; Chapter 14: Applications of SMPE, SMMPE, and STEA; Chapter 15: Vector Generalizations of Scalar Extrapolation Methods; Chapter 16: Vector-Valued Rational Interpolation Methods; Part IV: Appendices; Appendix A: QR Factorization; Appendix B: Singular Value Decompositions (SVD); Appendix C: Moore-Penrose Generalized Inverse; Appendix D: Basics of Orthogonal Polynomails; Appendix E: Chebyshev Polynomials: Basic Properties; Appendix F: Useful Formulas and Results for Jacobi Polynomials; Appendix G: Rayleigh Quotient and Power Method; Appendix H: Unified FORTRAN77 Code for MPE and RRE.&lt;/p&gt;
+
+&lt;p&gt;2017 / xiv + 433 pages / Softcover / ISBN 978-1-611974-95-9&lt;br /&gt;
+List Price $104.00 / SIAM Member Price $72.80 / Order Code &lt;strong&gt;CS17&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To order or for more about this book, including links to its table of contents, preface, and index, please visit &lt;a href=&quot;http://bookstore.siam.org/CS17/&quot;&gt;http://bookstore.siam.org/CS17/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more information about SIAM books, journals, conferences, memberships, or activities, contact:&lt;/p&gt;
+
+&lt;p&gt;SIAM&lt;br /&gt;
+Society for Industrial and Applied Mathematics&lt;br /&gt;
+3600 Market Street, 6th floor&lt;br /&gt;
+Philadelphia, PA 19104-2688&lt;br /&gt;
+800-447-SIAM (US and Canada)&lt;br /&gt;
+215-382-9800&lt;br /&gt;
+Fax 215-386-7999&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:service@siam.org&quot;&gt;service@siam.org&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.siam.org&quot;&gt;www.siam.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;call-for-proposals-gene-golub-siam-summer-school-2019&quot;&gt;&lt;a name=&quot;nav1&quot;&gt;Call for Proposals: Gene Golub SIAM Summer School 2019&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;SIAM is calling for &lt;a href=&quot;http://www.siam.org/students/g2s3/summer_call.php&quot;&gt;Letters of Intent&lt;/a&gt; proposing topics and organizers for the 2019 Gene Golub SIAM Summer School (G2S3). Letters of Intent in all areas of applied and computational mathematics will be considered.&lt;/p&gt;
+
+&lt;p&gt;It is expected that the program will run two weeks for about 40 graduate students in 2019.  SIAM will contribute up to $116,900 towards the running of the summer school.&lt;/p&gt;
+
+&lt;p&gt;Information about the G2S3 program, including the composition of the G2S3 committee, can be found at &lt;a href=&quot;http://www.siam.org/about/com_golub.php&quot;&gt;http://www.siam.org/about/com_golub.php&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Information about the 2018 G2S3 can be found at &lt;a href=&quot;http://www.siam.org/students/g2s3&quot;&gt;www.siam.org/students/g2s3&lt;/a&gt; and the archives of earlier G2S3s can be found at &lt;a href=&quot;http://www.siam.org/students/g2s3/archive.php&quot;&gt;http://www.siam.org/students/g2s3/archive.php&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The deadline for Letters of Intent is January 31, 2018. For more information see &lt;a href=&quot;http://www.siam.org/students/g2s3/summer_call.php&quot;&gt;http://www.siam.org/students/g2s3/summer_call.php&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Respectfully,&lt;/p&gt;
+
+&lt;p&gt;Chen Greif, Chair of the SIAM Committee on Gene Golub SIAM Summer School&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;gamm-annual-meeting-2018-applied-and-numerical-linear-algebra&quot;&gt;&lt;a name=&quot;nav2&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://jahrestagung.gamm-ev.de/index.php&quot;&gt;GAMM annual meeting 2018, Applied and Numerical Linear Algebra&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Dear colleagues,&lt;/p&gt;
+
+&lt;p&gt;the 89th Annual Meeting of the International Association of Applied
+Mathematics and Mechanics (GAMM) will take place from the 19th to
+the 23th of March 2018 in Munich, Germany.&lt;/p&gt;
+
+&lt;p&gt;On behalf of the organizing committee we would like to invite you,
+your colleagues, postdocs, PhD and master students to take an active
+part in Section S17&lt;/p&gt;
+
+&lt;p&gt;&amp;#8220;APPLIED AND NUMERICAL LINEAR ALGEBRA&amp;#8221;.&lt;/p&gt;
+
+&lt;p&gt;We are happy to announce that there will be two special topical
+lectures, each 40 minutes long.  We are greatly honored that the
+following distinguished speakers have agreed to present their work
+within Section S17:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Peter Butkovic (University of Birmingham)&lt;/li&gt;
+  &lt;li&gt;Bart Vandereycken (University of Geneva)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Contributed talks in this session will have a length of 15 minutes
+plus 5 minutes for discussion. Once the abstracts have been received,
+depending on the number of submissions and allowed time slots, we may
+have to select an appropriate number of abstracts for presentations.&lt;/p&gt;
+
+&lt;p&gt;Important dates:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Deadline for abstract submission: December 4, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Deadline for early bird registration: December 18, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Online registration will close on February 5, 2018.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For more detailed information concerning the submission of abstracts,
+registration and accommodation, please visit the conference website at&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jahrestagung.gamm-ev.de/index.php&quot;&gt;http://jahrestagung.gamm-ev.de/index.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We are looking forward to seeing and welcoming you in Munich. Please
+let us know if you have any questions regarding the scope or
+organization of Section S17.&lt;/p&gt;
+
+&lt;p&gt;Best wishes,&lt;/p&gt;
+
+&lt;p&gt;Iveta Hnetynkova (&lt;a href=&quot;mailto:hnetynkova@cs.cas.cz&quot;&gt;hnetynkova@cs.cas.cz&lt;/a&gt;)&lt;br /&gt;
+Robert Luce (&lt;a href=&quot;mailto:robert.luce@epfl.ch&quot;&gt;robert.luce@epfl.ch&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;(Section Organizers)&lt;/p&gt;
+
+&lt;p&gt;RNDr. Iveta Hnetynkova, PhD.&lt;br /&gt;
+Department of Numerical Mathematics&lt;br /&gt;
+Faculty of Mathematics and Physics&lt;br /&gt;
+Charles University&lt;br /&gt;
+Sokolovska 49/83&lt;br /&gt;
+186 75 Praha 8&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:hnetynkova@cs.cas.cz&quot;&gt;hnetynkova@cs.cas.cz&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Robert Luce&lt;br /&gt;
+EPFL&lt;br /&gt;
+Station 8&lt;br /&gt;
+1015 Lausanne&lt;br /&gt;
+Suisse&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:robert.luce@epfl.ch&quot;&gt;robert.luce@epfl.ch&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;acm-pasc18-basel-july-02-04-2018-first-call-for-papers-minisymposia-and-posters-submissions&quot;&gt;&lt;a name=&quot;nav3&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://pasc18.pasc-conference.org&quot;&gt;ACM PASC18, Basel, July 02-04, 2018: First Call for Papers, Minisymposia and Posters Submissions&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Platform for Advanced Scientific Computing (PASC) is pleased to
+announce that submissions will open on October 25 for the PASC18
+Conference, co-sponsored by the Association for Computing Machinery
+(ACM). Submissions are invited for papers, minisymposia and poster
+presentations. PASC18 will be held from July 02 to 04, 2018, at the
+Congress Center Basel, Switzerland (&lt;a href=&quot;https://pasc18.pasc-conference.org&quot;&gt;https://pasc18.pasc-conference.org&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;The PASC18 Organizing Team is pleased to announce that submissions are
+now open for minisymposium, paper and poster contributions. We look
+forward to receiving your submissions through the online submission
+portal (&lt;a href=&quot;https://pasc18.pasc-conference.org/submission/submissions-portal/&quot;&gt;https://pasc18.pasc-conference.org/submission/submissions-portal/&lt;/a&gt;).
+Please note that the November 26th deadline for minisymposia proposals
+is rapidly approaching!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CONFERENCE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;PASC18 is the fifth edition of the PASC Conference series, an
+international platform for the exchange of competences in scientific
+computing and computational science, with a strong focus on methods,
+tools, algorithms, application challenges, and novel techniques and
+usage of high performance computing. The theme of PASC18 is Fast and
+Big Data, Fast and Big Computation, emphasizing our vision of the
+close coupling of data and computation. Exposing and expressing
+massive and irregular parallelism in computational problems are key
+challenges for exploiting the massive and heterogeneous parallelism
+available in current, and expected in future, HPC systems, as well as
+to find new ways of generating scientific insight from data and
+models. Through its rich and interactive program, PASC18 aims to
+highlight the computational approaches that computational scientists,
+computer scientists, and practitioners employ today and will employ
+over the next decades to address these challenges.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CONTRIBUTIONS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;PASC18 welcomes submissions for minisymposium, paper, and poster
+contributions that demonstrate innovative research in scientific
+computing related to the following scientific domains:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chemistry and Materials&lt;/li&gt;
+  &lt;li&gt;Life Sciences&lt;/li&gt;
+  &lt;li&gt;Physics&lt;/li&gt;
+  &lt;li&gt;Climate and Weather&lt;/li&gt;
+  &lt;li&gt;Solid Earth Dynamics&lt;/li&gt;
+  &lt;li&gt;Engineering&lt;/li&gt;
+  &lt;li&gt;Computer Science and Applied Mathematics&lt;/li&gt;
+  &lt;li&gt;Emerging Applications Domains (e.g. Social Sciences, Finance,&amp;#8230;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Upcoming Submission Deadlines&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Minisymposia: November 26, 2017&lt;/li&gt;
+  &lt;li&gt;Papers: January 19, 2018&lt;/li&gt;
+  &lt;li&gt;Posters: February 4, 2018&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;MINISYMPOSIA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A minisymposium at PASC18 is a two-hour session of four presentations
+on a topic of current importance in computational science that
+showcases research related to domain science, applied mathematics,
+computer science or software engineering. Proposals should describe
+research that is of significant current interest to a given PASC
+scientific domain, and ideally, have potential application to
+additional domains. Proposals should include speakers from multiple
+institutions and/or countries, and be designed such that the speakers
+bring a range of different perspectives to the topic. PASC18
+encourages gender balance and diversity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PAPERS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The goal of the PASC papers program is to advance the quality of
+interdisciplinary exchange between the various specific fields of
+computational science and engineering. We welcome high-quality
+contributions of original research related to scientific computing in
+any of the eight PASC scientific domains. Papers will be evaluated by
+domain experts primarily on their significance, technical soundness,
+originality, and quality of communication. Papers accepted for PASC18
+will be presented as talks, and published in the Proceedings of the
+PASC Conference, accessible via the ACM Digital Library. A selection
+of the highest quality papers may be given the opportunity of a
+plenary presentation. In selecting papers for plenary presentation,
+the Scientific Reviewing Committee will place particular weight on
+impact, interdisciplinarity and interest to a broad audience.
+Following the conference, authors will have the opportunity to further
+develop their PASC papers for publication in a relevant,
+computationally focused, domain-specific journal. Authors thus stand
+to benefit from the rapid and broad dissemination of results afforded
+by the conference venue and associated published proceedings, as well
+as the impact associated with publication in a high-quality scientific
+journal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;POSTERS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Poster presentations provide an ideal opportunity for the exchange of
+ideas and expertise within and between the various computational
+science domains represented at the conference. Poster submissions
+should describe topical research related to domain science, applied
+mathematics, computer science or software engineering. Poster
+presenters will be given the possibility to &amp;#8220;pitch&amp;#8221; their posters to
+the conference audience in a rapid-fire flash session, and posters
+with the most stimulating content will be recognized in an award
+ceremony on the final day of the conference.&lt;/p&gt;
+
+&lt;p&gt;SUBMISSION GUIDELINES:
+&lt;a href=&quot;https://pasc18.pasc-conference.org/submission/submissions-portal/&quot;&gt;https://pasc18.pasc-conference.org/submission/submissions-portal/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PAPERS, MINISYMPOSIA, AND POSTERS PROGRAM CHAIRS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-Sabine Roller (University of Siegen, Germany)&lt;br /&gt;
+-Jack Wells (Oak Ridge National Laboratory, US)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;postdoctoral-research-fellows-at-emory-university-atlanta-ga&quot;&gt;&lt;a name=&quot;nav4&quot;&gt;Postdoctoral Research Fellows at Emory University, Atlanta, GA&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Emory University seeks to fill multiple postdoctoral positions in Computer Science, Scientific Computing, and Data Science. We seek junior researchers and scholars to join vibrant research groups of faculty and students conducting pioneering scholarship in various areas.&lt;/p&gt;
+
+&lt;p&gt;Applications for Postdoctoral Research positions are invited from candidates with outstanding research records (or promise) in appropriate fields. Applicants should have (or soon receive) a PhD in Computer Science, Mathematics, Applied Math, Statistics, or a related discipline relevant to projects or areas listed below. Opportunities for teaching may be available, but these are primarily research positions. Specific priority areas for current searches are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Scientific Computing&lt;/em&gt;: Numerical linear algebra, partial differential equations, optimization, inverse problems, and applications to radiology, cardiology, geophysics and data science.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Data Security and Privacy&lt;/em&gt;: Methods for privacy-preserving computation and analytics in health and spatiotemporal domains. Strong math, computer science, and statistics skills desired.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Natural Language Processing and Intelligent Information Access&lt;/em&gt;: Natural language parsing, understanding, and generation; conversational search, intelligent assistants, and question answering.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Data Analytics&lt;/em&gt;: Mining heterogeneous data sources and high-dimensional analytics for health, spatiotemporal, and financial econometrics. Strong computer science/statistics skills desired.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Computational Neuroscience&lt;/em&gt;: Frameworks for biologically plausible network simulation to explore the role of feedback in neural fault tolerance and network structure.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Machine Learning&lt;/em&gt;: Architectures and efficient learning algorithms for deep neural networks, scalable algorithms. Strong math, computer science, and statistics skills desired.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Storage and Caching Systems&lt;/em&gt;: Multilevel storage tracing frameworks, very large scale caching, exabyte-scale storage, access, and transmission methods.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Distributed Systems&lt;/em&gt;: Fault-tolerance, program analysis, adaptive runtime systems, and energy-efficient computing.  Systems programming and quantitative analysis skills desired.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Applications specifying one or more of the above areas and comprising a CV and research statement should be sent via email to &lt;a href=&quot;mailto:postdoc@mathcs.emory.edu&quot;&gt;postdoc@mathcs.emory.edu&lt;/a&gt;. Informal inquiries are also invited by email. Screening starts immediately and will continue until positions are filled. Faculty, research groups, and ongoing projects are at &lt;a href=&quot;http://www.mathcs.emory.edu/&quot;&gt;http://www.mathcs.emory.edu/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Emory University is an Affirmative Action/Equal Opportunity Employer and welcomes applications from women and members of minority groups.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;john-von-neumann-postdoctoral-fellowship-in-computational-science-at-sandia-national-laboratories&quot;&gt;&lt;a name=&quot;nav5&quot;&gt;John von Neumann Postdoctoral Fellowship in Computational Science at Sandia National Laboratories&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Sandia National Laboratories invites outstanding candidates to apply for the 2018 John von Neumann Postdoctoral Research 
+Fellowship in Computational Science. This prestigious fellowship is partially supported by the Applied Mathematics 
+Research Program in the U.S. Department of Energy&amp;#8217;s Office of Advanced Scientific Computing Research. The fellowship 
+provides an exceptional opportunity for innovative research in computational mathematics and scientific computing on 
+advanced computing architectures with application to a broad range of science and engineering problems of national 
+importance. Applicants must have or soon receive a Ph.D. in applied/computational mathematics or related computational 
+science and engineering disciplines. Applicants must have less than three years of postdoctoral experience. This 
+appointment is for one year, with a possible renewal for a second year, and includes a highly competitive salary, moving 
+expenses and a generous professional travel allowance.&lt;/p&gt;
+
+&lt;p&gt;Applications will be reviewed upon receipt. Complete applications received by December 1, 2017 will receive full 
+consideration.&lt;/p&gt;
+
+&lt;p&gt;For more information, including application instructions, please see our web page at &lt;a href=&quot;http://www.cs.sandia.gov/VN_Web_Page/&quot;&gt;http://www.cs.sandia.gov/VN_Web_Page/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Equal Opportunity Employer. M/F/D/V.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;tenure-track-faculty-positions-in-computer-science-courant-institute-nyu&quot;&gt;&lt;a name=&quot;nav6&quot;&gt;Tenure-track faculty positions in Computer Science, Courant Institute, NYU&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;New York University/Courant Institute of Mathematical Sciences&lt;br /&gt;
+Department of Computer Science&lt;br /&gt;
+Tenure Track Faculty Positions&lt;/p&gt;
+
+&lt;p&gt;The department expects to have several regular faculty positions and  invites candidates at all levels to apply. We will consider outstanding candidates in any area of computer science, in particular in scientific computing, verification, programming languages, machine learning and data science.&lt;/p&gt;
+
+&lt;p&gt;Faculty members are expected to be outstanding scholars and to participate in teaching at all levels from undergraduate to doctoral. New appointees will be offered competitive salaries and startup packages. In addition, we fully expect to secure affordable housing for the appointees within a short walking distance of the department. New York University is located in Greenwich Village, one of the most attractive residential areas of Manhattan.&lt;/p&gt;
+
+&lt;p&gt;Collaborative research with industry is facilitated by geographic proximity to computer science activities at AT&amp;amp;T, Facebook, Google, IBM, Bell Labs, NEC, and Siemens.&lt;/p&gt;
+
+&lt;p&gt;Please apply at &lt;a href=&quot;https://cs.nyu.edu/webapps/facapp/register&quot;&gt;https://cs.nyu.edu/webapps/facapp/register&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To guarantee full consideration, applications should be submitted no later than December 1, 2017; however, this is not a hard deadline, as all candidates will be considered to the full extent feasible, until all positions 
+are filled. Visiting positions may also be available.&lt;/p&gt;
+
+&lt;p&gt;EOE/AA/Minorities/Females/Veterans/Disabled/Sexual Orientation/Gender Identity&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;postdoctoral-fellowship-in-data-science-at-aims-south-africa&quot;&gt;&lt;a name=&quot;nav7&quot;&gt;Postdoctoral Fellowship in Data Science at AIMS South Africa&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Applications are invited for the DAAD funded postdoctoral fellowship in Data Science at AIMS South Africa under the supervision of Dr Bubacarr Bah, the German Research Chair for Data Science. The research area will be Data Science (in a very broad sense). For further details see: &lt;a href=&quot;https://www.aims.ac.za/en/opportunities/vacancies/postdoctoral-fellowships&quot;&gt;https://www.aims.ac.za/en/opportunities/vacancies/postdoctoral-fellowships&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Applications will be submitted through the DAAD portal found here: &lt;a href=&quot;https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?origin=136&amp;amp;status=2&amp;amp;subjectGrps=C&amp;amp;daad=1&amp;amp;q=postdoctoral%20fellowship&amp;amp;page=1&amp;amp;detail=57407689#bewerbung%20&quot;&gt;https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?origin=136&amp;amp;status=2&amp;amp;subjectGrps=C&amp;amp;daad=1&amp;amp;q=postdoctoral%20fellowship&amp;amp;page=1&amp;amp;detail=57407689#bewerbung%20&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;PLEASE NOTE: In recognition of the higher cost of living in South Africa compared to other Sub-Saharan African countries, the salary offered by DAAD will be topped-up by AIMS South Africa and the amount of top-up will be negotiated with the candidate.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;luis-w-alvarez-postdoctoral-fellowship-in-computing-sciences-at-berkeley-lab&quot;&gt;&lt;a name=&quot;nav8&quot;&gt;Luis W. Alvarez Postdoctoral Fellowship in Computing Sciences at Berkeley Lab&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Berkeley Lab is now accepting applications for the 2018 Luis W. Alvarez Postdoctoral Fellowship in Computing Sciences&lt;/p&gt;
+
+&lt;p&gt;Apply now for this prestigious fellowship! Researchers in computer science, applied mathematics or any computational science discipline who have received their Ph.D. within the last three years are encouraged to apply. The successful applicant will receive a competitive salary, professional travel allowance, relocation assistance, excellent benefits, and an opportunity to work in the San Francisco Bay Area. Since its founding in 2002, the fellowship has cultivated exceptional young scientists who have gone on to make outstanding contributions to computational and computing sciences.&lt;/p&gt;
+
+&lt;p&gt;For more information, please visit: go.lbl.gov/alvarez&lt;/p&gt;
+
+&lt;p&gt;Berkeley Lab&amp;#8217;s Computing Sciences organization researches, develops, and deploys new tools and technologies to meet these needs and to advance research in such areas as global climate change, combustion, fusion energy, nanotechnology, biology, and astrophysics. Research areas in Computing Sciences include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Researching and developing software and hardware to support extreme-scale computing&lt;/li&gt;
+  &lt;li&gt;Developing mathematical modeling for complex scientific problems&lt;/li&gt;
+  &lt;li&gt;Designing algorithms to improve the performance of scientific applications&lt;/li&gt;
+  &lt;li&gt;Researching computer architectures to improve system performance&lt;/li&gt;
+  &lt;li&gt;Advancing extreme scientific data management&lt;/li&gt;
+  &lt;li&gt;Evaluating new and promising computing and networking technologies&lt;/li&gt;
+  &lt;li&gt;Researching methods to control and manage dynamic circuit networks&lt;/li&gt;
+  &lt;li&gt;Developing large scale visualization and analytics technologies&lt;/li&gt;
+  &lt;li&gt;Performing data analysis in distributed environments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Application Process:&lt;br /&gt;
+For consideration applications are due November 13, 2017. Letters of Reference are due November 17, 2017. Following your application submission, you will receive a message with detailed instructions regarding the application process.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;submissions-for-next-siam-la-digest&quot;&gt;&lt;a name=&quot;nav9&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The next SIAM-LA Digest is due to be sent out on Dec 04, 2017.
+Please send any postings for the next Digest to siam-la at siam.org. 
+Only SIAG/LA members may submit postings.  To contact the list owner, 
+send an email to siam-la-owner at siam.org.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Nov 2017 00:00:00 -0500</pubDate>
+        <link>http://siags.siam.org/siagla//2017/11/06/digest.html</link>
+        <guid isPermaLink="true">http://siags.siam.org/siagla//2017/11/06/digest.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SIAG LA digest</title>
+        <description>&lt;p&gt;This month the digest has a number of advertised positions, as well as information about the two available SIAG/LA prizes.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;CONTENTS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav0&quot;&gt;2021 SIAM ALA Conference&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav1&quot;&gt;Announcing NEW SIAG/Linear Algebra Early Career Prize&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav2&quot;&gt;SIAG/Linear Algebra Best Paper Prize&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav3&quot;&gt;The Fifteenth Copper Mountain Conference on Iterative Methods&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav4&quot;&gt;2018 SIAM Conference on Imaging Science (IS18)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav5&quot;&gt;PostDoc Position, Numerical Linear Algebra, EPFL (CH)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav6&quot;&gt;Postdoctoral positions in numerical optimization - Argonne National Laboratory&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav7&quot;&gt;Faculty position at University of Colorado&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav8&quot;&gt;Sidney Fernbach Postdoctoral Fellowship in the Computing Sciences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav9&quot;&gt;Faculty Position, Computational Math, Emory University&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav10&quot;&gt;Faculty Position, High Performance Computational Mathematics, Virginia Tech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav11&quot;&gt;Job openings in math at Purdue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav12&quot;&gt;Postdoctoral Fellowship at Berkeley Lab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav13&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2021-siam-ala-conference&quot;&gt;&lt;a name=&quot;nav0&quot;&gt;2021 SIAM ALA Conference&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The SIAG/LA Officers seek input on a location for the 
+2021 SIAM Conference on Applied Linear Algebra.&lt;/p&gt;
+
+&lt;p&gt;Recommendations for locations within North America need not have a
+local organizing committee, but it would be helpful to provide
+justification on why the particular recommended location is a good
+choice for the SIAM ALA Conference. Such recommendations can be
+sent directly to Jim Nagy, SIAG/LA Chair, jnagy@emory.edu.&lt;/p&gt;
+
+&lt;p&gt;Note that it is possible to run the conference with limited or no SIAM
+support or staff, or to hold the conference outside North America.
+However, in these situations it is important to have a strong local
+organizing team, and a formal proposal needs to be submitted to SIAM.&lt;br /&gt;
+For further details, see:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.siam.org/meetings/proposals/siag_run.php&quot;&gt;http://www.siam.org/meetings/proposals/siag_run.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The deadline for submitting recommendations and/or proposals
+is 4 February 2018.&lt;/p&gt;
+
+&lt;p&gt;SIAG/LA Team:&lt;br /&gt;
+Jim Nagy, Chair, &lt;a href=&quot;mailto:jnagy@emory.edu&quot;&gt;jnagy@emory.edu&lt;/a&gt;&lt;br /&gt;
+Alison Ramage, Vice Chair, &lt;a href=&quot;mailto:a.ramage@strath.ac.uk&quot;&gt;a.ramage@strath.ac.uk&lt;/a&gt; &lt;br /&gt;
+Melina Freitag, Program Director, &lt;a href=&quot;mailto:m.a.freitag@bath.ac.uk&quot;&gt;m.a.freitag@bath.ac.uk&lt;/a&gt;&lt;br /&gt;
+Jen Pestana, Secretary, &lt;a href=&quot;mailto:jennifer.pestana@strath.ac.uk&quot;&gt;jennifer.pestana@strath.ac.uk&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;announcing-new-siaglinear-algebra-early-career-prize&quot;&gt;&lt;a name=&quot;nav1&quot;&gt;Announcing NEW SIAG/Linear Algebra Early Career Prize&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;We are excited to announce that SIAG/LA has established an Early Career Prize! The &lt;a href=&quot;http://www.siam.org/prizes/sponsored/siaglaecareer.php&quot;&gt;SIAG/Linear Algebra Early Career Prize&lt;/a&gt; will be awarded every three years to one post-PhD early career researcher in the field of applicable linear algebra for outstanding contributions to the field within six years of receiving the PhD or equivalent degree as of January 1 of the award year. The prize will be awarded every three years at the SIAM Conference on Applied Linear Algebra, beginning with the meeting in Hong Kong, May 4-8, 2018.&lt;/p&gt;
+
+&lt;p&gt;Eligibility Criteria:&lt;br /&gt;
+The candidate&amp;#8217;s work must be a significant research contribution to applicable linear algebra. The qualifying contribution(s) for which the award is made must be publicly available and may belong to any aspect of applicable linear algebra. The candidate must have been awarded their PhD no earlier than six (6) years prior to January 1 of the award year and no later than the nomination date. Current graduate students are not eligible for this award. For the 2018 award, the candidate must have been awarded their PhD no earlier than January 1, 2012, and no later than the nomination deadline.&lt;/p&gt;
+
+&lt;p&gt;Nomination Deadline:&lt;br /&gt;
+November 1, 2017&lt;/p&gt;
+
+&lt;p&gt;Submission link:
+&lt;a href=&quot;https://siam2018.secure-platform.com/a/solicitations/home/2&quot;&gt;https://siam2018.secure-platform.com/a/solicitations/home/2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Required Materials:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nominator&amp;#8217;s Letter of Recommendation for Candidate&lt;/li&gt;
+  &lt;li&gt;Candidate&amp;#8217;s CV&lt;/li&gt;
+  &lt;li&gt;2 or 3 Letters of Support from experts in the field&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Selection Committee:&lt;br /&gt;
+James Nagy (Chair), Emory University&lt;br /&gt;
+Matthias Bolten, Universitaet Wuppertal&lt;br /&gt;
+Heike Fassbender, TU Braunschweig&lt;br /&gt;
+Jennifer A. Scott, Rutherford Appleton Laboratory&lt;br /&gt;
+Jianlin Xia, Purdue University&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.siam.org/prizes/&quot;&gt;Learn more&lt;/a&gt; about our prize program and view all prizes with &lt;a href=&quot;http://www.siam.org/prizes/nominations.php&quot;&gt;open calls&lt;/a&gt;. Contact &lt;a href=&quot;mailto:prizeadmin@siam.org&quot;&gt;prizeadmin@siam.org&lt;/a&gt; with questions regarding nomination procedure.&lt;/p&gt;
+
+&lt;p&gt;SIAM Prize Program&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;siaglinear-algebra-best-paper-prize&quot;&gt;&lt;a name=&quot;nav2&quot;&gt;SIAG/Linear Algebra Best Paper Prize&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Nominate a paper now for the 2018 SIAG/Linear Algebra Best Paper Prize! The &lt;a href=&quot;http://www.siam.org/prizes/sponsored/siagla.php&quot;&gt;SIAG/Linear Algebra Best Paper Prize&lt;/a&gt; is awarded every three (3) years to the author(s) of the most outstanding paper, as determined by the selection committee, on a topic in applicable linear algebra published in English in a peer-reviewed journal within the four (4) calendar years preceding the award year. This paper prize has been awarded for 30 years as the SIAG/LA Prize; it has a new name.&lt;/p&gt;
+
+&lt;p&gt;Eligibility Criteria:&lt;br /&gt;
+The qualifying paper must contain significant research contributions to the field of linear algebra, as commonly defined in the mathematical literature, with direct or potential applications. The paper must have been published in English in a peer-reviewed journal in the four (4) calendar years preceding the award year. For the 2018 award, the paper must have been published between the dates of January 1, 2014 - December 31, 2017.&lt;/p&gt;
+
+&lt;p&gt;Nomination Deadline:&lt;br /&gt;
+October 15, 2017&lt;/p&gt;
+
+&lt;p&gt;Submission link:
+&lt;a href=&quot;http://www.siam.org/prizes/nominations/nom_siagla.php&quot;&gt;http://www.siam.org/prizes/nominations/nom_siagla.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Required Materials:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nominator&amp;#8217;s Letter of Recommendation for Candidate Paper&lt;/li&gt;
+  &lt;li&gt;Bibliographic Citation for Candidate Paper&lt;/li&gt;
+  &lt;li&gt;Digital Version of the Candidate Paper (PDF required)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Selection Committee:&lt;br /&gt;
+Alison Ramage (Chair), University of Strathclyde&lt;br /&gt;
+Beatrice Meini, University of Pisa&lt;br /&gt;
+Dominique Orban, Polytechnique Montr&amp;eacute;al&lt;br /&gt;
+Michael Overton, Courant Institute - New York University&lt;br /&gt;
+Raymond Tuminaro, Sandia National Laboratories&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.siam.org/prizes/&quot;&gt;Learn more&lt;/a&gt; about our prize program and view all prizes with &lt;a href=&quot;http://www.siam.org/prizes/nominations.php&quot;&gt;open calls&lt;/a&gt;. Contact &lt;a href=&quot;mailto:prizeadmin@siam.org&quot;&gt;prizeadmin@siam.org&lt;/a&gt; with questions regarding nomination procedure.&lt;/p&gt;
+
+&lt;p&gt;SIAM Prize Program&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-fifteenth-copper-mountain-conference-on-iterative-methods&quot;&gt;&lt;a name=&quot;nav3&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://grandmaster.colorado.edu/~copper/2018&quot;&gt;The Fifteenth Copper Mountain Conference on Iterative Methods&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Copper Mountain Conference on Iterative Methods, held every other
+year, is the premiere conference on all aspects of iterative solution
+methods and their applications. The meeting is organized in cooperation
+with SIAM.&lt;/p&gt;
+
+&lt;p&gt;Highlighted topics for the 2018 meeting are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;AMG for nonsymmetric systems&lt;/li&gt;
+  &lt;li&gt;Asynchronous iterative solvers&lt;/li&gt;
+  &lt;li&gt;Eigenvalue and singular value methods and applications&lt;/li&gt;
+  &lt;li&gt;Inverse problems, regularization&lt;/li&gt;
+  &lt;li&gt;Iterative methods in applications (earth systems, energy,
+fluids, electromagnetics, imaging)&lt;/li&gt;
+  &lt;li&gt;Iterative solvers at extreme scale and on high concurrency
+node architectures&lt;/li&gt;
+  &lt;li&gt;Iterative solvers for matrix equations&lt;/li&gt;
+  &lt;li&gt;Iterative solvers in data science and engineering&lt;/li&gt;
+  &lt;li&gt;Optimization of Complex Problems/Systems (PDE-constrained
+optimization, optimization under uncertainty, and
+uncertainty, and simulation-based optimization)&lt;/li&gt;
+  &lt;li&gt;Nonlinear solvers&lt;/li&gt;
+  &lt;li&gt;Randomized iterative solvers and preconditioners&lt;/li&gt;
+  &lt;li&gt;Rank-structured solvers and preconditioners&lt;/li&gt;
+  &lt;li&gt;Robust and scalable iterative solution of couple
+multi-physics problems&lt;/li&gt;
+  &lt;li&gt;Solvers for indefinite systems&lt;/li&gt;
+  &lt;li&gt;Surrogate modeling/model reduction&lt;/li&gt;
+  &lt;li&gt;Uncertainty quantification/PDEs with random data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Important Deadlines:&lt;/p&gt;
+
+&lt;p&gt;Student competition papers: January 10, 2018&lt;/p&gt;
+
+&lt;p&gt;Author abstracts: January 15, 2018&lt;/p&gt;
+
+&lt;p&gt;Early registration: January 19, 2018&lt;/p&gt;
+
+&lt;p&gt;Lodging: Please reserve early as rooms are limited (we recommend
+booking no later than February 21 as any unclaimed rooms
+will be released after that date)&lt;/p&gt;
+
+&lt;p&gt;For additional information, see&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://grandmaster.colorado.edu/~copper/2018&quot;&gt;http://grandmaster.colorado.edu/~copper/2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;2018-siam-conference-on-imaging-science-is18&quot;&gt;&lt;a name=&quot;nav4&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.siam.org/meetings/pp18/&quot;&gt;2018 SIAM Conference on Imaging Science (IS18)&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The 2018 SIAM Conference on Imaging Science (IS18) will be held at the
+University of Bologna in Bologna, Italy, June 5-8, 2018.
+Please note the upcoming deadlines for submission of minisymposium
+proposals (October 1) and contributed lectures, minisymposium
+presentations, and posters (November 5). Further conference
+information can be found below and at
+&lt;a href=&quot;https://www.siam-is18.dm.unibo.it&quot;&gt;https://www.siam-is18.dm.unibo.it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;2018 SIAM Conference on Imaging Science (IS18)&lt;br /&gt;
+Location: University of Bologna, Bologna, Italy&lt;br /&gt;
+Dates: June 5-8, 2018&lt;br /&gt;
+Website: &lt;a href=&quot;https://www.siam-is18.dm.unibo.it&quot;&gt;https://www.siam-is18.dm.unibo.it&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sponsors:&lt;br /&gt;
+The conference is sponsored by SIAM Activity Group on Imaging Science
+(SIAG/IS) and the Bologna Committee for IS Conference 2018 (BCIS18).
+It is being held in cooperation with the IEEE Signal Processing
+Society (IEEE) and Gesellschaft f&amp;uuml;r Angewandte Mathematik und Mechanik
+e.V. (GAMM).&lt;/p&gt;
+
+&lt;p&gt;Conference Co-Chairs:&lt;br /&gt;
+Omar Ghattas (The University of Texas at Austin)&lt;br /&gt;
+Fiorella Sgallari (Dept. Mathematics, University of Bologna)&lt;/p&gt;
+
+&lt;p&gt;Scientific Committee:&lt;br /&gt;
+Marcelo Bertalm&amp;iacute;o (University Pompeu Fabra)&lt;br /&gt;
+Julianne Chung (Virginia Tech)&lt;br /&gt;
+Per Christian Hansen (Technical University of Denmark)&lt;br /&gt;
+Jari Kaipio (The University of Auckland)&lt;br /&gt;
+Eric Miller (Tufts University)&lt;br /&gt;
+Mila Nikolova (CMLA - CNRS ENS Cachan)&lt;br /&gt;
+Ronny Ramlau (Kepler University Linz and Johann Radon Institute)&lt;br /&gt;
+Carola-Bibiane Sch&amp;ouml;nlieb (University of Cambridge)&lt;br /&gt;
+Gabriele Steidl (Technische Universit&amp;auml;t Kaiserslautern)&lt;br /&gt;
+Xue-Cheng Tai (Hong Kong Baptist University)&lt;br /&gt;
+Laura Waller (University of California, Berkeley)&lt;br /&gt;
+Brendt Wohlberg (Los Alamos National Laboratory)&lt;/p&gt;
+
+&lt;p&gt;Organizing Committee:&lt;br /&gt;
+Carolina Beccari (Dept. Mathematics, University of Bologna)&lt;br /&gt;
+Giulio Casciola (Dept. Mathematics, University of Bologna)&lt;br /&gt;
+Salvatore Cuomo (Dept. Mathematics and Applications &amp;#8220;Renato Caccioppoli&amp;#8221;, University of Naples)&lt;br /&gt;
+Luigi Di Stefano (Dept. Computer Science and Engineering, University of Bologna)&lt;br /&gt;
+Giovanni Dore (Dept. Mathematics, University of Bologna)&lt;br /&gt;
+Maurizio Falcone (Dept. Mathematics, University of Rome &amp;#8220;La Sapienza&amp;#8221;)&lt;br /&gt;
+Luca Formaggia (Dept. Mathematics - Milan Polytechnic)&lt;br /&gt;
+Patrizio Frosini (Dept. Mathematics, University of Bologna)&lt;br /&gt;
+Germana Landi (Dept. Mathematics, University of Bologna)&lt;br /&gt;
+Alessandro Lanza (Dept. Mathematics, University of Bologna)&lt;br /&gt;
+Damiana Lazzaro (Dept. Mathematics, University of Bologna)&lt;br /&gt;
+Elena Loli Piccolomini (Dept. Mathematics, University of Bologna)&lt;br /&gt;
+Roberto Mecca (University of Bologna and University of Cambridge)&lt;br /&gt;
+Serena Morigi (Dept. Mathematics, University of Bologna)&lt;br /&gt;
+Michele Piana (Dept. Mathematics, University of Genoa)&lt;br /&gt;
+Giulia Scalet (Dept. Civil Engineering and Architecture, University of Pavia)&lt;br /&gt;
+Federica Sciacchitano (Dept. Mathematics, University of Genoa)&lt;br /&gt;
+Valeria Simoncini (Dept. Mathematics, University of Bologna)&lt;br /&gt;
+Giulia Spaletta (Dept. Mathematics, University of Bologna)&lt;br /&gt;
+Fabiana Zama (Dept. Mathematics, University of Bologna)&lt;/p&gt;
+
+&lt;p&gt;During the conference the Organizing Committee will give two special
+awards to promote and reward new ideas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;IS18 best poster award: 2000 Euros&lt;/li&gt;
+  &lt;li&gt;IS18 best challenging application award (among posters and minisymposia): 1000 Euros&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Important Dates and Deadlines:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;October 01, 2017 - Minisymposium proposals&lt;/li&gt;
+  &lt;li&gt;November 05, 2017 - Contributed Lecture and Minisymposium Presentation Abstracts&lt;/li&gt;
+  &lt;li&gt;November 05, 2017 - Poster Abstracts&lt;/li&gt;
+  &lt;li&gt;April 04, 2018  - Early registration deadline&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Submission information: &lt;a href=&quot;https://www.siam-is18.dm.unibo.it/submissions&quot;&gt;https://www.siam-is18.dm.unibo.it/submissions&lt;/a&gt;&lt;br /&gt;
+Additional information: email &lt;a href=&quot;mailto:siam-is2018@unibo.it&quot;&gt;siam-is2018@unibo.it&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;postdoc-position-numerical-linear-algebra-epfl-ch&quot;&gt;&lt;a name=&quot;nav5&quot;&gt;PostDoc Position, Numerical Linear Algebra, EPFL (CH)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Chair of Numerical Algorithms and High-Performance Computing
+(&lt;a href=&quot;http://anchp.epfl.ch&quot;&gt;anchp.epfl.ch&lt;/a&gt;) is inviting applications for a postdoctoral
+researcher. The research project focuses on the development, analysis,
+and application of low-rank matrix and tensor methods.&lt;/p&gt;
+
+&lt;p&gt;Candidates are expected to have a strong background in numerical
+linear algebra. Preference will be given to candidates with demonstrated
+experience in low-rank approximation, randomized algorithms and/or
+high-performance computing.&lt;/p&gt;
+
+&lt;p&gt;The position is available from January 1, 2018 but there is flexibility.
+The initial appointment is for two years with the possibility of extension.
+Some minor teaching responsibilities will be expected.&lt;/p&gt;
+
+&lt;p&gt;Applications will be considered until the position is filled.&lt;/p&gt;
+
+&lt;p&gt;Applicants should prepare a CV and a list of 3 references that can be
+contacted. This should be forwarded as a single PDF file to Mrs Samantha
+Bettschen (&lt;a href=&quot;mailto:samantha.bettschen@epfl.ch&quot;&gt;samantha.bettschen@epfl.ch&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Questions about the position or requests for further information can
+directed to Prof Daniel Kressner (&lt;a href=&quot;mailto:daniel.kressner@epfl.ch&quot;&gt;daniel.kressner@epfl.ch&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;EPFL is an equal opportunities employer and places particular emphasis
+on fostering career opportunities for women. Qualified women are
+therefore strongly encouraged to apply.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;postdoctoral-positions-in-numerical-optimization---argonne-national-laboratory&quot;&gt;&lt;a name=&quot;nav6&quot;&gt;Postdoctoral positions in numerical optimization - Argonne National Laboratory&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Mathematics and Computer Science (MCS) Division at Argonne National
+Laboratory invites outstanding candidates to apply for postdoctoral
+positions in the following areas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Developing and implementing algorithms at the intersection of optimization and statistics:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://careers.peopleclick.com/careerscp/client_argonnelab/post_doc/en_US/gateway.do?functionName=viewFromLink&amp;amp;localeCode=en-us&amp;amp;jobPostId=5596&amp;amp;source=Twitter&amp;amp;sourceType=NETWORKING_SITE&quot;&gt;https://careers.peopleclick.com/careerscp/client_argonnelab/post_doc/en_US/gateway.do?functionName=viewFromLink&amp;amp;localeCode=en-us&amp;amp;jobPostId=5596&amp;amp;source=Twitter&amp;amp;sourceType=NETWORKING_SITE&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PDE-constrained optimization:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://careers.peopleclick.com/careerscp/client_argonnelab/post_doc/en_US/gateway.do?functionName=viewFromLink&amp;amp;localeCode=en-us&amp;amp;jobPostId=5599&amp;amp;source=Twitter&amp;amp;sourceType=NETWORKING_SITE&quot;&gt;https://careers.peopleclick.com/careerscp/client_argonnelab/post_doc/en_US/gateway.do?functionName=viewFromLink&amp;amp;localeCode=en-us&amp;amp;jobPostId=5599&amp;amp;source=Twitter&amp;amp;sourceType=NETWORKING_SITE&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Other areas of optimization (e.g., multiobjective, discrete), applied mathematics, and statistics:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://careers.peopleclick.com/careerscp/client_argonnelab/post_doc/en_US/gateway.do?functionName=viewFromLink&amp;amp;localeCode=en-us&amp;amp;jobPostId=4935&amp;amp;source=Twitter&amp;amp;sourceType=NETWORKING_SITE&quot;&gt;https://careers.peopleclick.com/careerscp/client_argonnelab/post_doc/en_US/gateway.do?functionName=viewFromLink&amp;amp;localeCode=en-us&amp;amp;jobPostId=4935&amp;amp;source=Twitter&amp;amp;sourceType=NETWORKING_SITE&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The appointments will be in the MCS Division (&lt;a href=&quot;www.mcs.anl.gov&quot;&gt;http://www.mcs.anl.gov&lt;/a&gt;), which is a
+leader in the design of numerical algorithms, development of software tools and
+technology, and simulation of applications of interest to the U.S. Department of
+Energy. Argonne is located in the southwestern Chicago suburbs, offering the
+advantages of affordable housing, good schools, and easy access to the cultural
+attractions of the city.&lt;/p&gt;
+
+&lt;p&gt;Please email Jeffrey Larson (&lt;a href=&quot;mailto:jmlarson@anl.gov&quot;&gt;jmlarson@anl.gov&lt;/a&gt;) and Todd Munson (&lt;a href=&quot;mailto:tmunson@mcs.anl.gov&quot;&gt;tmunson@mcs.anl.gov&lt;/a&gt;) with any questions.&lt;/p&gt;
+
+&lt;p&gt;Flexibility is available in start dates.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;faculty-position-at-university-of-colorado&quot;&gt;&lt;a name=&quot;nav7&quot;&gt;Faculty position at University of Colorado&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Department of Applied Mathematics at the University of Colorado at
+Boulder invites applications for a tenure track faculty position at the
+Assistant Professor level to begin August 2018. The position is in the
+area of high dimensional data analysis (big data), with possible areas
+of emphasis including nonlinear optimization, analysis in
+high-dimensional spaces, randomized projections, probabilistic numerics,
+harmonic analysis, theoretical deep learning, and related areas.
+However, exceptional candidates in all fields of Applied Mathematics may
+be considered.&lt;/p&gt;
+
+&lt;p&gt;For the full advertisement as well as instructions on how to apply,
+please see: &lt;a href=&quot;https://tinyurl.com/APPMCU2017&quot;&gt;https://tinyurl.com/APPMCU2017&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We start considering applications October 16, 2017, so the deadline is
+coming up quickly.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;sidney-fernbach-postdoctoral-fellowship-in-the-computing-sciences&quot;&gt;&lt;a name=&quot;nav8&quot;&gt;Sidney Fernbach Postdoctoral Fellowship in the Computing Sciences&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Computation Directorate at Lawrence Livermore National Laboratory (LLNL) is soliciting applications for the Sidney Fernbach Postdoctoral Fellowship in the Computing Sciences.  This fellowship will be awarded to one outstanding candidate with exceptional talent, scientific track record, and potential for significant achievements in computational mathematics, scientific computing, or computer science.  The fellowship is named after Sidney Fernbach, former Director of the Computation Department at LLNL and one of the pioneers in high performance scientific computing. The fellow will have the freedom to pursue their own research agenda under the guidance of an LLNL staff scientist who serves as a mentor.  The appointment will be for one year renewable for a second year.&lt;/p&gt;
+
+&lt;p&gt;Successful candidates will work in a cutting-edge, interdisciplinary research environment with accomplished researchers and will also have access to Livermore Computing&amp;#8217;s world-class HPC environment.  Fellows will receive a highly competitive salary, moving expenses, and a professional travel allowance.&lt;/p&gt;
+
+&lt;p&gt;LLNL is a premier research and development institution for science and technology applied to national security that has been a leader in scientific and high-performance computing for decades.  The Computation Directorate in the laboratory conducts world-class, collaborative scientific research and development in high performance computing, computational physics, numerical mathematics, computer science, and data science.  Major research thrust areas include scalable algorithms and software for linear and nonlinear solvers, partial differential equations, adaptive mesh refinement, verification and uncertainty quantification, large-scale data analysis, scientific visualization, performance tools, programming models, and compiler analysis.&lt;/p&gt;
+
+&lt;p&gt;Interested applicants can find more information about eligibility, benefits, and the application process on the Fernbach Fellowship web page (&lt;a href=&quot;http://computation.llnl.gov/fernbach&quot;&gt;http://computation.llnl.gov/fernbach&lt;/a&gt;).  Deadline for application is November 5, 2017.&lt;/p&gt;
+
+&lt;p&gt;Lawrence Livermore National Laboratory is managed by Lawrence Livermore National Security, LLC. for the National Nuclear Security Administration within the Department of Energy.  We are an equal opportunity employer with a commitment to workforce diversity.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;faculty-position-computational-math-emory-university&quot;&gt;&lt;a name=&quot;nav9&quot;&gt;Faculty Position, Computational Math, Emory University&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Emory University&amp;#8217;s Mathematics &amp;amp; Computer Science Department invites
+applications for a tenure-track faculty position in Computational
+Mathematics, to begin in Fall 2018. Appointments are expected to be at
+the Assistant Professor level, but truly exceptional candidates may be
+considered for senior appointments. Applicants must demonstrate
+outstanding research ability and have a PhD in Mathematics, Computer
+Science, or a closely related field. Applicants should also have
+strong records, or promise, as undergraduate and graduate
+teachers. Ideal candidates will have interdisciplinary interests that
+complement and enhance Emory&amp;#8217;s current and vibrant research strengths
+in numerical linear algebra, networks, inverse problems, numerical
+optimization, numerical partial differential equations, and
+computational fluid dynamics. For more details on Emory&amp;#8217;s faculty,
+graduate students, postdocs, research and teaching activities in
+Computational Mathematics, see
+&lt;a href=&quot;http://www.mathcs.emory.edu/Research/Area/ScientificComputing/&quot;&gt;http://www.mathcs.emory.edu/Research/Area/ScientificComputing/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Applications consisting of a cover letter, CV, research and teaching
+statements, and three letters of recommendation directly from
+recommenders can be submitted via &lt;a href=&quot;https://apply.interfolio.com/45261&quot;&gt;https://apply.interfolio.com/45261&lt;/a&gt;
+Informal inquiries about the position are also invited by email to
+&lt;a href=&quot;mailto:compmathsearch2017@mathcs.emory.edu&quot;&gt;compmathsearch2017@mathcs.emory.edu&lt;/a&gt;. Screening starts December 1,
+2017, and will continue until the position is filled. For additional
+information about the department, please see &lt;a href=&quot;http://www.mathcs.emory.edu&quot;&gt;http://www.mathcs.emory.edu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Emory University is an Equal Opportunity/Affirmative Action/
+Disability/Veteran employer. Women, minorities, persons with
+disabilities, and veterans are encouraged to apply. Emory University
+is committed to student and faculty diversity, equity, and
+inclusion. In your cover letter or in a separate statement, please
+reflect upon your experience and vision regarding the teaching and
+mentorship of students from diverse backgrounds.&lt;/p&gt;
+
+&lt;p&gt;Emory University is a top-ranked private institution recognized
+internationally for its outstanding colleges, graduate and
+professional schools, and one of the world&amp;#8217;s leading health care
+systems. Emory scholars and experts generate more that $574 million
+dollars in research funding annually while also highly valuing
+excellence in teaching. Emory&amp;#8217;s beautiful campus is a part of the
+energetic Atlanta metropolitan area, which is home to more than five
+million people and has a diversity of cultural, social, entertainment,
+shopping and recreational options. Atlanta, often referred to as &amp;#8220;the
+City in a Forest&amp;#8221;, has mild winters, long and beautiful spring and
+fall seasons, and is home to the world&amp;#8217;s busiest international
+airport, providing ready access to global travel.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;faculty-position-high-performance-computational-mathematics-virginia-tech&quot;&gt;&lt;a name=&quot;nav10&quot;&gt;Faculty Position, High Performance Computational Mathematics, Virginia Tech&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Virginia Tech Department of Mathematics Faculty Position in High Performance Computational Mathematics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Virginia Tech Department of Mathematics anticipates a tenure-track opening in High Performance Computational Mathematics with a start date of August 10, 2018, at our Blacksburg, VA, campus. The successful candidate will have a strong background in computational mathematics and high performance computing.  Possible specialties include, but are not limited to, mathematical aspects of numerical linear algebra, randomized numerical linear algebra, inverse problems, numerical PDE modeling, PDE solvers, uncertainty quantification, scientific computing, scalable data analytics, or large-scale topological data analysis. Application areas of interest include, but are not limited to, geophysics, physics, biology, or economics.&lt;/p&gt;
+
+&lt;p&gt;The successful applicant will have the opportunity to collaborate with faculty across the university on the Intelligent Infrastructure for Human-Centered Communities Destination Area (&lt;a href=&quot;http://provost.vt.edu/destination-areas.html&quot;&gt;http://provost.vt.edu/destination-areas.html&lt;/a&gt;). Priority areas of interest for this initiative include modeling, simulation, analytics, and decision-support environments that leverage modern high performance computing and big data for quantitative understanding of large-scale systems.&lt;/p&gt;
+
+&lt;p&gt;Appointment as an Assistant Professor of Mathematics is anticipated, but exceptional senior candidates will be considered for positions of Associate Professor of Mathematics or Professor of Mathematics. Teaching and service duties will be split between the Mathematics Department and the Computational Modeling and Data Analytics (CMDA) program. The CMDA program is a collaborative effort involving faculty members from several departments, coordinated by the College of Science&amp;#8217;s Academy of Integrated Science (&lt;a href=&quot;https://www.ais.science.vt.edu/index.html&quot;&gt;https://www.ais.science.vt.edu/index.html&lt;/a&gt;). The college&amp;#8217;s Academy of Integrated Science and the university&amp;#8217;s Destination Areas are manifestations of Virginia Tech&amp;#8217;s commitment to its land-grant mission of using leadership in teaching, research, and service to address society&amp;#8217;s pressing problems.&lt;/p&gt;
+
+&lt;p&gt;Job requirements include a Ph.D. in mathematics or a related field at the time of appointment. The successful candidate will be expected to establish a distinguished research program and to provide effective instruction and advising to a diverse population of undergraduate and graduate students, with a particular emphasis on enhancing the advanced high performance computing aspects of the Mathematics and CMDA curricula. Responsibilities include: continuing development of professional capabilities and scholarly activities, including travel to professional conferences; curriculum development; participation in department, college, and university governance; and professional service. Occasional travel will be required.&lt;/p&gt;
+
+&lt;p&gt;An online application is required. To complete the online application, go to &lt;a href=&quot;http://www.hr.vt.edu&quot;&gt;http://www.hr.vt.edu&lt;/a&gt;, choose Prospective Employees, then choose Search Virginia Tech  Jobs (direct link &lt;a href=&quot;https://listings.jobs.vt.edu/postings/79993&quot;&gt;https://listings.jobs.vt.edu/postings/79993&lt;/a&gt;), and choose the Mathematics Department or choose posting number TR0170122. Please include a cover letter, a CV, a research statement, and a teaching statement as part of the online application. Each applicant should follow the instructions in the online application system to request that four references submit letters of recommendation, or letters can be emailed to &lt;a href=&quot;mailto:compmath17@math.vt.edu&quot;&gt;compmath17@math.vt.edu&lt;/a&gt;. Additional information about position requirements and responsibilities can be found at &lt;a href=&quot;http://www.hr.vt.edu&quot;&gt;http://www.hr.vt.edu&lt;/a&gt; or &lt;a href=&quot;https://www.math.vt.edu&quot;&gt;https://www.math.vt.edu&lt;/a&gt;.The faculty handbook (available at &lt;a href=&quot;http://www.provost.vt.edu&quot;&gt;http://www.provost.vt.edu&lt;/a&gt;) gives a complete description of faculty responsibilities. As part of the hiring process, the successful applicant must pass a criminal background check. Questions about the search may be addressed to &lt;a href=&quot;mailto:compmath17@math.vt.edu&quot;&gt;compmath17@math.vt.edu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Applications received by October 30, 2017, will receive full consideration. Virginia Tech is an Equal Opportunity / Affirmative Action Institution. Virginia Tech has a strong commitment to the principle of diversity and, in that spirit, seeks a broad spectrum of candidates including women, minorities, veterans, and people with disabilities. Individuals with disabilities desiring accommodations in the application process should notify Ms. Lori Berry (&lt;a href=&quot;mailto:loberry@vt.edu&quot;&gt;loberry@vt.edu&lt;/a&gt;, 540-231-6536) or call TTY 1-800- 828-1120 by the application deadline. Virginia Tech is the recipient of a National Science Foundation ADVANCE Institutional Transformation Award and is committed to increasing the participation of women in academic science and engineering careers. Additionally, Virginia Tech is supportive in addressing the needs of dual-career couples.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;job-openings-in-math-at-purdue&quot;&gt;&lt;a name=&quot;nav11&quot;&gt;Job openings in math at Purdue&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Dear Colleagues,&lt;/p&gt;
+
+&lt;p&gt;Purdue University is recruiting to fill several faculty positions in Mathematics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A named, full-professor position.&lt;/li&gt;
+  &lt;li&gt;Two assistant professor positions.&lt;/li&gt;
+  &lt;li&gt;Several 3-year postdocs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All areas of mathematics will be considered, and applications from candidates from underrepresented groups are welcomed;  Purdue is committed to advancing diversity in all areas of faculty effort.  More information is at 
+&lt;br /&gt;&lt;a href=&quot;http://www.math.purdue.edu/jobs/faculty&quot;&gt;http://www.math.purdue.edu/jobs/faculty&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Please share this information with colleagues who may be interested.&lt;/p&gt;
+
+&lt;p&gt;Best regards,&lt;br /&gt;
+Greg Buzzard&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;postdoctoral-fellowship-at-berkeley-lab&quot;&gt;&lt;a name=&quot;nav12&quot;&gt;Postdoctoral Fellowship at Berkeley Lab&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Dear Colleagues,&lt;/p&gt;
+
+&lt;p&gt;Performance and Algorithms Research Group of the Computational Research Division at Lawrence Berkeley National Laboratory (LBNL) has immediate openings for multiple postdoctoral fellow positions. We are looking for candidates with expertise and interest in parallel algorithm development, performance optimization, or (ideally) both. The problem areas are broad and include (but not limited to) Fusion Energy, Catalysis, Genomics, Graph Analytics, and Sparse Solvers.&lt;/p&gt;
+
+&lt;p&gt;Applications are accepted until the position is filled. More details and instructions to apply can be found here: &lt;a href=&quot;https://lbl.taleo.net/careersection/2/jobdetail.ftl?lang=en&amp;amp;job=84106&quot;&gt;https://lbl.taleo.net/careersection/2/jobdetail.ftl?lang=en&amp;amp;job=84106&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks!&lt;/p&gt;
+
+&lt;p&gt;Aydin Bulu&amp;ccedil;&lt;br /&gt;
+Staff Scientist, Computational Research Division, Berkeley Lab&lt;br /&gt;
+Adjunct Assistant Professor, EECS, University of California, Berkeley&lt;br /&gt;
+&lt;a href=&quot;http://graphblas.org/~aydin&quot;&gt;http://graphblas.org/~aydin&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;submissions-for-next-siam-la-digest&quot;&gt;&lt;a name=&quot;nav13&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The next SIAM-LA Digest is due to be sent out on Nov 06, 2017.
+Please send any postings for the next Digest to siam-la at siam.org. 
+Only SIAG/LA members may submit postings.  To contact the list owner, 
+send an email to siam-la-owner at siam.org.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Oct 2017 00:00:00 -0400</pubDate>
+        <link>http://siags.siam.org/siagla//2017/10/02/digest.html</link>
+        <guid isPermaLink="true">http://siags.siam.org/siagla//2017/10/02/digest.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SIAG/LA Early Career Prize</title>
+        <description>&lt;p&gt;We are excited to announce that the SIAG/LA has established an Early Career Prize to be awarded to an outstanding early career researcher in the field of applicable linear algebra.&lt;/p&gt;
+
+&lt;p&gt;The prize will be awarded every three years at the SIAM Conference on Applied Linear Algebra, beginning with the meeting in Hong Kong, May 4-8, 2018.  Nominations for the 2018 prize must be submitted by November 1, 2017.  Nominees must be within six (6) years of receiving a PhD or equivalent degree as of January 1, 2018. Nominations should include a letter of nomination, including a description of the contributions, a CV of the candidate, and letters of support from two or three (but no more than three) experts.  Further details about the prize, including the prize selection committee and submission details will be posted on the SIAM website: &lt;a href=&quot;https://www.siam.org/activity/la/&quot;&gt;https://www.siam.org/activity/la/&lt;/a&gt;.  Questions about the prize can be sent directly to the SIAG/LA Chair, Jim Nagy, &lt;a href=&quot;mailto:jnagy@emory.edu&quot;&gt;jnagy@emory.edu&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 06 Sep 2017 00:00:00 -0400</pubDate>
+        <link>http://siags.siam.org/siagla//2017/09/06/earlycareer.html</link>
+        <guid isPermaLink="true">http://siags.siam.org/siagla//2017/09/06/earlycareer.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SIAG LA digest</title>
+        <description>&lt;p&gt;The digest this month includes an opportunity to contribute to the Strutctured Matrix Market, as well as annoucements of upcoming conferences and job opportunities.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;CONTENTS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav0&quot;&gt;Structured Matrix Market&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav1&quot;&gt;SIAM Conference on Parallel Processing for Scientific Computing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav2&quot;&gt;Postdoctoral Position in Numerical Linear Algebra on Extreme-scale Computers at Rutherford Appleton Laboratory, Oxfordshire, UK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav3&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;structured-matrix-market&quot;&gt;&lt;a name=&quot;nav0&quot;&gt;Structured Matrix Market&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;We are launching a repository for structured matrices &amp;#8211; Structured Matrix Market (SMart): &lt;a href=&quot;http://smart.math.purdue.edu/&quot;&gt;http://smart.math.purdue.edu/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The collection is for various types of structured matrices in the forms of Matlab and other source codes, as well as data files. The codes can be used to generate test data for matrix computations, especially fast structured methods such as rank-structured direct solvers.&lt;/p&gt;
+
+&lt;p&gt;Submissions of codes and data related to structured matrices are welcome. The submission method can be found on the website.&lt;/p&gt;
+
+&lt;p&gt;Jianlin Xia
+Purdue University&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;siam-conference-on-parallel-processing-for-scientific-computing&quot;&gt;&lt;a name=&quot;nav1&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.siam.org/meetings/pp18/&quot;&gt;SIAM Conference on Parallel Processing for Scientific Computing&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;CALL FOR PARTICIPATION&lt;/p&gt;
+
+&lt;p&gt;SIAM Conference on Parallel Processing for Scientific Computing&lt;br /&gt;
+(PP18)&lt;br /&gt;
+March 7-10, 2018, Waseda University, Tokyo, Japan&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.siam.org/meetings/pp18/&quot;&gt;https://www.siam.org/meetings/pp18/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://siampp18.jsiam.org/&quot;&gt;http://siampp18.jsiam.org/&lt;/a&gt;&lt;br /&gt;
+Twitter hashtag: #SIAMPP18&lt;/p&gt;
+
+&lt;h3 id=&quot;important-dates&quot;&gt;Important Dates:&lt;/h3&gt;
+&lt;p&gt;Aug.21, 2017: Minisymposium proposal Submissions&lt;br /&gt;
+Sep.18, 2017: Contributed Lecture, Poster and Minisymposium 
+Presentation Abstracts&lt;br /&gt;
+Sep.08, 2017: SIAM Student Travel Award &amp;amp; Early Career Travel Award 
+Applications&lt;/p&gt;
+
+&lt;h3 id=&quot;hosted-by&quot;&gt;Hosted by:&lt;/h3&gt;
+&lt;p&gt;SIAM Activity Group on Supercomputing (SIAG/SC)&lt;br /&gt;
+The Japan Society for Industrial and Applied Mathematics (JSIAM)
+Waseda University&lt;/p&gt;
+
+&lt;p&gt;SIAM Conference on Parallel Processing for Scientific Computing, hosted
+by SIAM Activity Group on
+Supercomputing, is one of the most important meetings on algorithms and
+applications for parallel
+processing. The meeting is held every second year, and more than 400 
+experts from all over the world
+attend it in recent years. The 16th meeting in 2018 (SIAM PP18) will be
+held at the Nishi-Waseda
+Campus of Waseda University, Tokyo, Japan.&lt;/p&gt;
+
+&lt;h3 id=&quot;invited-speakers&quot;&gt;Invited Speakers:&lt;/h3&gt;
+&lt;p&gt;Takuya Akiba, Preferred Networks, Japan&lt;br /&gt;
+Haohuan Fu, National Supercomputing Center, Wuxi, China&lt;br /&gt;
+Tsuyoshi Ichimura, Earthquake Research Institute, The University of 
+Tokyo, Japan&lt;br /&gt;
+Lois Curfman McInnes, Argonne National Laboratory, USA&lt;br /&gt;
+Shin&amp;#8217;ichi Oishi, Waseda University, Japan&lt;br /&gt;
+John Shalf, Lawrence Berkeley National Laboratory, USA&lt;br /&gt;
+Wim Vanroose, University of Antwerp, Belgium&lt;br /&gt;
+Chao Yang, Chinese Academy of Science, China&lt;/p&gt;
+
+&lt;h3 id=&quot;co-chairs-of-the-conference-organizing-committee&quot;&gt;Co-Chairs of the Conference Organizing Committee:&lt;/h3&gt;
+&lt;p&gt;Satoshi Matsuoka, Tokyo Institute of Technology, Japan&lt;br /&gt;
+Kengo Nakajima, Information Technology Center, The University of 
+Tokyo , Japan&lt;br /&gt;
+Olaf Schenk, Universita della Svizzera italiana, Switzerland&lt;/p&gt;
+
+&lt;h3 id=&quot;local-organizing-committee&quot;&gt;Local Organizing Committee:&lt;/h3&gt;
+&lt;p&gt;Shin&amp;#8217;ichi Oishi, Waseda University &amp;amp; President of JSIAM, Japan, Chair&lt;br /&gt;
+Tetsuya Sakurai, University of Tsukuba, Japan, Vice-Chair&lt;br /&gt;
+Takeshi Ogita, Tokyo Women&amp;#8217;s Christian University, Japan, Secretary 
+General&lt;br /&gt;
+Naoya Yamanaka, Meisei University, Japan, Secretary&lt;br /&gt;
+Yuuka Yanagisawa, Waseda University, Japan, Secretary&lt;br /&gt;
+Atsuhi Minamihata, Waseda University, Japan, Secretary&lt;br /&gt;
+Toshihiro Hanawa, The University of Tokyo, Japan&lt;br /&gt;
+Tetsuya Hoshino, The University of Tokyo, Japan&lt;br /&gt;
+Akihiro Ida, The University of Tokyo, Japan&lt;br /&gt;
+Masahide Kashiwagi, Waseda University, Japan&lt;br /&gt;
+Satoshi Matsuoka, Tokyo Institute of Technology, Japan&lt;br /&gt;
+Yusuke Morikura, Teikyo Heisei University, Japan&lt;br /&gt;
+Kengo Nakajima, The University of Tokyo, Japan&lt;br /&gt;
+Kouta Sekine, Toyo University, Japan&lt;br /&gt;
+Reiji Suda, The University of Tokyo, Japan&lt;br /&gt;
+Rio Yokota, Tokyo Institute of Technology, Japan&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;postdoctoral-position-in-numerical-linear-algebra-on-extreme-scale-computers-at-rutherford-appleton-laboratory-oxfordshire-uk&quot;&gt;&lt;a name=&quot;nav2&quot;&gt;Postdoctoral Position in Numerical Linear Algebra on Extreme-scale Computers at Rutherford Appleton Laboratory, Oxfordshire, UK&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;We are inviting applications for a postdoctoral position in the Computational
+Mathematics Group at STFC-RAL in Oxfordshire, UK.&lt;/p&gt;
+
+&lt;p&gt;The successful candidate will join  the Numerical Linear Algebra for Future 
+and Emerging Technologies (NLAFET) project funded by the European Commission 
+involving Inria, Umea University, University of Manchester and STFC-RAL.&lt;br /&gt;
+The position will focus on the design, implementation, and evaluation of
+parallel algorithms for numerical linear algebra with regards to
+extreme-scale challenges.  The  research at RAL will principally be on 
+sparse direct solvers that are highly scalable and thus suitable for future 
+and emerging large scale computers.  The algorithms developed will be 
+validated on several applications targeted by NLAFET, such as power systems, 
+computational fluid dynamics, and astrophysics.  The research will be done in 
+close collaboration with established researchers in the Computational 
+Mathematics Group as well as with other partners in NLAFET.&lt;/p&gt;
+
+&lt;p&gt;Candidates should have a PhD in applied mathematics or computer
+science and expertise in numerical linear algebra and high
+performance computing. The candidate must have a visa to work in the UK
+which automatically includes any UK or EU citizen.&lt;/p&gt;
+
+&lt;p&gt;This post offers a full-time research appointment until the end of the
+project on 31 October 2018.&lt;/p&gt;
+
+&lt;p&gt;Informal enquiries may be made to: Iain Duff &lt;a href=&quot;mailto:iain.duff@stfc.ac.uk&quot;&gt;iain.duff@stfc.ac.uk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To apply or to find out more details about the position,
+please go to the STFC recruitment portal at:
+&lt;a href=&quot;http://topcareer.jobs/Vacancy/irc242252_7364.aspx&quot;&gt;http://topcareer.jobs/Vacancy/irc242252_7364.aspx&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The deadline for applications is 24th September 2017 but I encourage people to
+apply well before that date.  The appointment can begin at any time after
+the job offer and ideally the post should start on or before 1st November 2017.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;submissions-for-next-siam-la-digest&quot;&gt;&lt;a name=&quot;nav3&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The next SIAM-LA Digest is due to be sent out on Oct 02, 2017.
+Please send any postings for the next Digest to siam-la at siam.org. 
+Only SIAG/LA members may submit postings.  To contact the list owner, 
+send an email to siam-la-owner at siam.org.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Sep 2017 00:00:00 -0400</pubDate>
+        <link>http://siags.siam.org/siagla//2017/09/04/digest.html</link>
+        <guid isPermaLink="true">http://siags.siam.org/siagla//2017/09/04/digest.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SIAG LA digest</title>
+        <description>&lt;p&gt;In this digest are some upcoming dates, including deadlines for the SIAM ALA meeting next May, and a write-up of the Householder Symposium XX by Jessica Bosch.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;CONTENTS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav0&quot;&gt;SIAM Conference on Applied Linear Algebra (SIAM ALA18)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav1&quot;&gt;SIAG/Linear Algebra Prize&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav2&quot;&gt;Householder Symposium XXI, June 2020&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav3&quot;&gt;Householder Symposium XX Summary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav4&quot;&gt;Post-doc position at the University of Strathclyde&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav5&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;siam-conference-on-applied-linear-algebra-siam-ala18&quot;&gt;&lt;a name=&quot;nav0&quot;&gt;SIAM Conference on Applied Linear Algebra (SIAM ALA18)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.math.hkbu.edu.hk/siam-ala18/&quot;&gt;http://www.math.hkbu.edu.hk/siam-ala18/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The call for participation for the 2018 Applied Linear Algebra meeting in Hong Kong is now available. Please visit
+&lt;a href=&quot;http://www.math.hkbu.edu.hk/siam-ala18/CallMinisymposia.html&quot;&gt;http://www.math.hkbu.edu.hk/siam-ala18/CallMinisymposia.html&lt;/a&gt;
+&amp;lt; http://www.math.hkbu.edu.hk/siam-ala18/CallMinitutorials.html&amp;gt;
+for more information.&lt;/p&gt;
+
+&lt;p&gt;SUBMISSION DEADLINES&lt;/p&gt;
+
+&lt;p&gt;31 October 2017:        Minitutorial proposals&lt;br /&gt;
+31 October 2017:        Minisymposium proposals&lt;br /&gt;
+31 October 2017:        Abstracts for contributed and minisymposium speakers&lt;br /&gt;
+31 October 2017:        Abstracts for posters&lt;/p&gt;
+
+&lt;p&gt;TRAVEL FUND APPLICATION DEADLINE
+31 October 2017:    SIAM Student Travel Award and Post-doc/Early Career Travel Award Applications&lt;/p&gt;
+
+&lt;p&gt;Detailed guidelines for the preparation of abstract, minisymposia and poster submissions are available at
+&lt;a href=&quot;http://www.math.hkbu.edu.hk/siam-ala18/Submission.html&quot;&gt;http://www.math.hkbu.edu.hk/siam-ala18/Submission.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Information on travel awards is available at
+&lt;a href=&quot;http://www.math.hkbu.edu.hk/siam-ala18/Awards.html&quot;&gt;http://www.math.hkbu.edu.hk/siam-ala18/Awards.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;siaglinear-algebra-prize&quot;&gt;&lt;a name=&quot;nav1&quot;&gt;SIAG/Linear Algebra Prize&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.siam.org/prizes/sponsored/siagla.php&quot;&gt;http://www.siam.org/prizes/sponsored/siagla.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nominate a colleague now for the 2018 SIAG/Linear Algebra Prize! 
+The SIAG/LA Prize is awarded every three (3) years to the author(s) 
+of the most outstanding paper, as determined by the selection committee, 
+on a topic in applicable linear algebra published in English in a 
+peer-reviewed journal within the four (4) calendar years preceding the 
+award year.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eligibility Criteria&lt;/strong&gt;:&lt;br /&gt;
+The qualifying paper must contain significant research contributions to 
+the field of linear algebra, as commonly defined in the mathematical 
+literature, with direct or potential applications. The paper must have 
+been published in English in a peer-reviewed journal in the four (4) 
+calendar years preceding the award year. For the 2018 award, the paper 
+must have been published between the dates of January 1, 2014 - December 31, 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nomination Deadline&lt;/strong&gt;:&lt;br /&gt;
+October 15, 2017&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Required Materials&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nominator&amp;#8217;s Letter of Recommendation for Candidate Paper&lt;/li&gt;
+  &lt;li&gt;Bibliographic Citation for Candidate Paper&lt;/li&gt;
+  &lt;li&gt;Digital Version of the Candidate Paper (PDF required)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Selection Committee&lt;/strong&gt;:&lt;br /&gt;
+Alison Ramage (Chair), University of Strathclyde&lt;br /&gt;
+Beatrice Meini, University of Pisa&lt;br /&gt;
+Dominique Orban, Polytechnique Montr&amp;eacute;al&lt;br /&gt;
+Michael Overton, Courant Institute - New York University&lt;br /&gt;
+Raymond Tuminaro, Sandia National Laboratories&lt;/p&gt;
+
+&lt;p&gt;Learn more about our prize program and view all prizes with open calls. 
+Contact &lt;a href=&quot;mailto:prizeadmin@siam.org&quot;&gt;prizeadmin@siam.org&lt;/a&gt; with questions regarding nomination procedure.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;householder-symposium-xxi-june-2020&quot;&gt;&lt;a name=&quot;nav2&quot;&gt;Householder Symposium XXI, June 2020&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Householder Symposium XXI on Numerical Linear Algebra will be held
+at Hotel Sierra Silvana, Selva di Fasano (Br), Italy, 14-19 June 2020. 
+Preliminary information can be found at&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://users.ba.cnr.it/iac/irmanm21/HHXXI/index.html&quot;&gt;http://users.ba.cnr.it/iac/irmanm21/HHXXI/index.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This symposium is the twenty-first in a series, previously called the
+Gatlinburg Symposia, and will be organized in cooperation with the
+Society for Industrial and Applied Mathematics (SIAM) and the SIAM
+Activity Group on Linear Algebra.&lt;/p&gt;
+
+&lt;p&gt;The Symposium is very informal, with the intermingling of young and
+established researchers a priority. Participants are expected to
+attend the entire meeting. The seventeenth Householder Award for the
+best thesis in numerical linear algebra since 1 January 2017 will be 
+presented.&lt;/p&gt;
+
+&lt;p&gt;Attendance at the meeting is by invitation only. Applications will be
+solicited from researchers in numerical linear algebra, matrix theory,
+and related areas such as optimization, differential equations, signal
+processing, and control. Each attendee will be given the opportunity
+to present a talk or a poster. Some talks will be plenary lectures, 
+while others will be shorter presentations arranged in parallel sessions.&lt;/p&gt;
+
+&lt;p&gt;The application deadline will be some time in Fall 2019.&lt;/p&gt;
+
+&lt;p&gt;It is expected that partial support will be available for some
+students, early career participants, and participants from countries
+with limited resources.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;householder-symposium-xx-summary&quot;&gt;&lt;a name=&quot;nav3&quot;&gt;Householder Symposium XX Summary&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;In this (timely!) &lt;a href=&quot;http://siags.siam.org/siagla//2017/08/02/bosch.html&quot;&gt;article&lt;/a&gt; Jessica Bosch (UBC) describes her experience  at the recent Householder Symposium XX.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;post-doc-position-at-the-university-of-strathclyde&quot;&gt;&lt;a name=&quot;nav4&quot;&gt;Post-doc position at the University of Strathclyde&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A two year post-doc position is available at the University of 
+Strathclyde within the EPSRC-funded project
+Inference, Computation and Numerics for Insights into Cities (ICONIC)
+&lt;a href=&quot;https://iconicmath.org/&quot;&gt;https://iconicmath.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To be considered for the role, you will be educated to a minimum of PhD 
+level in an appropriate discipline, with experience in scientific 
+computation and skills in one or more of: matrix
+computations, stochastic modelling, statistical inference, network science or data science.&lt;/p&gt;
+
+&lt;p&gt;Further details are available at
+&lt;a href=&quot;https://iconicmath.org/recruitment/&quot;&gt;https://iconicmath.org/recruitment/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;submissions-for-next-siam-la-digest&quot;&gt;&lt;a name=&quot;nav5&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The next SIAM-LA Digest is due to be sent out on Sep 04, 2017.
+Please send any postings for the next Digest to siam-la at siam.org. 
+Only SIAG/LA members may submit postings.  To contact the list owner, 
+send an email to siam-la-owner at siam.org.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Aug 2017 00:00:00 -0400</pubDate>
+        <link>http://siags.siam.org/siagla//2017/08/07/digest.html</link>
+        <guid isPermaLink="true">http://siags.siam.org/siagla//2017/08/07/digest.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Householder Symposium XX</title>
+        <description>&lt;p&gt;&lt;em&gt;This article on the Householder Symposium XX was written by Jessica Bosch from the University of British Columbia.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This summer, I attended the Householder Symposium XX in Blacksburg, Virginia. It was my first time in Virginia as well as my first time attending this fabulous meeting. I was pleased to be invited for a poster presentation and to had the chance to meet other young and  established researchers. It&amp;#8217;s a tradition of the meeting to be informal, and I felt very comfortable due to its friendly atmosphere.&lt;/p&gt;
+
+&lt;p&gt;The scientific program consisted of diverse plenary talks, parallel sessions, as well as poster presentations supported by two entertaining poster blitz sessions on the first two evenings of the event. The symposium is well-known for the high-quality research presentations about state-of-the-art numerical linear and multi-linear algebra as well as related areas including optimization and systems and control. For example, Silvia Gazzola introduced a new fast solver, based on a flexible Krylov method, for nonnegative least squares problems in her talk on &amp;#8220;Enforcing Nonnegativity by Flexible Krylov Subspaces&amp;#8221;. Nick Trefethen gave an enjoyable presentation on &amp;#8220;Block Operators and Spectral Discretizations&amp;#8221;, which recently appeared in SIAM Review and has potential use in the classroom as well. In his talk on &amp;#8220;Linear-Quadratic Optimal Control of Differential-Algebraic Equations,&amp;#8221; Matthias Voigt presented feasibility criteria in terms of the solutions of the general Lur&amp;#8217;e equation and discussed aspects on the numerical construction of the solutions.&lt;/p&gt;
+
+&lt;p&gt;A highlight of the symposium was the presentation of the 16th Alston S. Householder Award to Edgar Solomonik (University of Illinois at Urbana-Champaign) for the best PhD dissertation in numerical linear algebra submitted between January 2014 and December 2016. Edgar&amp;#8217;s dissertation on &amp;#8220;Provably Efficient Algorithms for Numerical Tensor Algebra&amp;#8221; was selected by an international committee consisting of Michele Benzi, Inderjit Dhillon, Howard Elman (chair), Andreas Frommer, Francoise Tisseur, and Stephen Vavasis. In the morning after the conference banquet, Edgar gave the Householder Prize lecture, titled &amp;#8220;Towards an Algebraic Formalism for Scalable Numerical Algorithms&amp;#8221;, and you can check out his slides &lt;a href=&quot;http://solomonik.cs.illinois.edu/talks/householder-pz-vtech-jun-2017.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The first social highlight was a welcome BBQ with live music and members of the local organizing committee serving the beer. For the traditional excursion, participants could choose between three options: (1) a hike by one of Virginia&amp;#8217;s most beautiful waterfalls, followed by local beer tasting; (2) wine tasting in Roanoke, followed by a short hike; or (3) a vigorous hike to one of Virginia&amp;#8217;s most interesting rock formations. Due to my foot injury, I could not join the tough hike but others were excited about it. I attended the wine tasting, which was enjoyable as well. The waiter was quite quick in serving, so we tasted a good number of wines and snacked on some cheese and meat. In the end, we could take the fancy wine glasses home. The evening continued with a wonderful conference banquet. Cleve Moler, the after-dinner speaker, looked back to previous Householder Symposia and showed an interesting photo series. During lunches, participants were assigned to random tables which supported networking with diverse researchers. Another highlight was the live music and dance evening, with Beresford Parlett being one of the first dancers.&lt;/p&gt;
+
+&lt;p&gt;Let me conclude my review with citing a joke by Chen Greif during his plenary talk on &amp;#8220;Recent Advances in the Solution of Saddle-Point Systems&amp;#8221; &amp;#8211; Question: Can you solve a saddle point problem? Answer: Schur!&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Jessica Bosch is a postdoctoral researcher at the University of British Columbia. Her research interests include numerical linear algebra, particularly preconditioning and the itrative solution of linear systems, the numerical solution of phase field models. Her website can be found here:
+&lt;a href=&quot;http://www.cs.ubc.ca/~jbosch/&quot;&gt;http://www.cs.ubc.ca/~jbosch/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Aug 2017 00:00:00 -0400</pubDate>
+        <link>http://siags.siam.org/siagla//2017/08/02/bosch.html</link>
+        <guid isPermaLink="true">http://siags.siam.org/siagla//2017/08/02/bosch.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SIAG LA digest</title>
+        <description>&lt;p&gt;It was great to see so many of you at meetings this month and to hear about many of the exciting new ideas in our field.&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;CONTENTS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav0&quot;&gt;SIAM News and Randomized Algorithms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav1&quot;&gt;Postdoc and PhD positions, Department of Computer Science, KU Leuven, Belgium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nav2&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;siam-news-and-randomized-algorithms&quot;&gt;&lt;a name=&quot;nav0&quot;&gt;SIAM News and Randomized Algorithms&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;SIAM News seeks articles written from a broad prospective, to be
+accessible to a multidisciplinary readership with a focus on
+applications.  I would like to encourage all of our SIAG/LA members to
+consider writing articles for SIAM News. In particular, the SIAM News
+Board is considering a special issue on various aspects of randomized
+algorithms. If you have questions about this, or other topics relevant
+to linear algebra for SIAM News, please contact the SIAG/LA SIAM News
+Liaison:&lt;/p&gt;
+
+&lt;p&gt;Rosemary Renaut&lt;br /&gt;
+School of Mathematical and Statistical Sciences&lt;br /&gt;
+Arizona State University
+&lt;a href=&quot;mailto:renaut@asu.edu&quot;&gt;renaut@asu.edu&lt;/a&gt;
+&lt;a href=&quot;http://math.la.asu.edu/~rosie&quot;&gt;http://math.la.asu.edu/~rosie&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;postdoc-and-phd-positions-department-of-computer-science-ku-leuven-belgium&quot;&gt;&lt;a name=&quot;nav1&quot;&gt;Postdoc and PhD positions, Department of Computer Science, KU Leuven, Belgium&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The Numerical Analysis and Applied Mathematics (NUMA) research unit of the Department of Computer Science at the KU Leuven - University of Leuven (Belgium) invites applications for up to 6 doctoral and 3 postdoctoral positions.&lt;/p&gt;
+
+&lt;p&gt;NUMA consists of 38 members (professors, postdoctoral and PhD researchers).  We develop, analyse and implement numerical algorithms for applications in science and engineering. We focus on algorithmic innovations, and on the analysis of accuracy and efficiency. Our research relies on mathematical insight, design of algorithms, and software development.&lt;/p&gt;
+
+&lt;p&gt;NUMA has vacancies on several recently acquired research projects for researchers with various expertises. Applicants should have a master&amp;#8217;s degree in (Applied) Mathematics, Computer Science, Engineering or Physics, should have experience in programming and a general interest in the development and analysis of numerical methods, and/or their application in engineering and science.  We are currently looking for candidates with specific interest/expertise in one (or more) of the following domains:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Numerical (multi)-linear algebra: polynomial computations and iterative methods&lt;/li&gt;
+  &lt;li&gt;Multiscale and stochastic simulation methods&lt;/li&gt;
+  &lt;li&gt;Large-scale PDE-constrained optimization and uncertainty quantification&lt;/li&gt;
+  &lt;li&gt;Parallel algorithms and metaheuristics for cutting and packing problems&lt;/li&gt;
+  &lt;li&gt;High-dimensional approximation, simulation and analysis&lt;/li&gt;
+  &lt;li&gt;Computational methods for control&lt;/li&gt;
+  &lt;li&gt;Data driven network science&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We offer a stimulating environment at a European top university, a well-equipped and experienced multidisciplinary research unit, a personalized PhD trajectory, with attention paid to transferable skills development and a competitive wage.Senior postdocs will get the opportunity to become involved in project management.&lt;/p&gt;
+
+&lt;p&gt;For more information on the research unit and possible supervisors, visit
+&lt;a href=&quot;https://wms.cs.kuleuven.be/groups/natw/&quot;&gt;https://wms.cs.kuleuven.be/groups/natw/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The positions at the postdoctoral level are for one year with the possibility of extension to a second year. The positions at the predoctoral level will be initially for one year. After a positive evaluation, this position can be extended for three more years.
+Candidates are invited to submit their application (including a detailed CV, a motivation letter, and two letters of recommendation) via the websites
+&lt;a href=&quot;https://icts.kuleuven.be/apps/jobsite/vacatures/54213421&quot;&gt;https://icts.kuleuven.be/apps/jobsite/vacatures/54213421&lt;/a&gt; (for the PhD positions) and
+&lt;a href=&quot;https://icts.kuleuven.be/apps/jobsite/vacatures/54218508&quot;&gt;https://icts.kuleuven.be/apps/jobsite/vacatures/54218508&lt;/a&gt; (for the postdoc positions).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;submissions-for-next-siam-la-digest&quot;&gt;&lt;a name=&quot;nav2&quot;&gt;Submissions for next SIAM-LA digest&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The next SIAM-LA Digest is due to be sent out on Aug 07, 2017.
+Please send any postings for the next Digest to siam-la at siam.org. 
+Only SIAG/LA members may submit postings.  To contact the list owner, 
+send an email to siam-la-owner at siam.org.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://siags.siam.org/siagla//2017/07/03/digest.html</link>
+        <guid isPermaLink="true">http://siags.siam.org/siagla//2017/07/03/digest.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

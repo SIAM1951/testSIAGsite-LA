@@ -1,0 +1,95 @@
+GROWING INTEREST IN INFORMATION RETRIEVAL DRAWS 70 TO RALEIGH WORKSHOP 
+
+by Michael W. Berry
+
+
+An edited version of this article appeared in SIAM News, vol. 34,
+no. 1, p. 20 (2001).
+
+The first "Computational Information Retrieval Workshop" (CIR00) was
+be held on Sunday, October 22, 2000 in Raleigh, NC.  The workshop took
+place at the Jane S. McKimmon Center on the campus of North Carolina
+State University, immediately preceding the Seventh SIAM Conference on
+Applied Linear Algebra.  The workshop attendees numbered close to 70
+and represented numerous universities, industrial corporations, and
+government laboratories.  Invited and contributed talks focused on the
+role of linear algebra, computational statistics, and computer science
+in the development of algorithms and software systems for information
+(particularly text) retrieval. The workshop was graciously funded by
+SIAM, National Science Foundation, Boeing, M-CAM, Inc., and Telcordia
+Technologies, Inc.
+
+The invited talks were organized into 3 sessions and the speakers
+are listed below:
+
+Session 1
+Haesun Park, University of Minnesota (Dimension Reduction in Vector Space
+Based Information Retrieval Using Least Norm)
+Axel Ruhe, Chalmers University (Information Retrieval Using Short Krylov
+Subspaces)
+Jason Wu, Boeing (Information Retrieval and Classification with Subspace
+Representations)
+
+Session 2
+Kyle Gallivan, Florida State University (Applications of Incremental Dominant
+Singular Subspaces)
+Inderjit Dhillon, University of Texas at Austin (Concept Decompositions for
+Large-Scale Information Retrieval)
+Elizabeth Jessup, University of Colorado (Applications of Orthogonal
+Decomposition in Information Retrieval)
+
+Session 3
+William Pottenger, Lehigh University (Detecting Emerging Conceptual Contexts in
+Data Mining)
+Padma Raghavan, Pennsylvania State University (Symbolic Preprocessing
+Techniques
+for Information Retrieval Using Vector Space Models)
+Chris Ding, Lawrence Berkeley National Laboratory (A Probabilistic Model for
+LSI/SVD in Information Retrieval)
+
+For an industry perspective on research and development in concept
+modeling, Brian Baker from Oingo, Inc. based in Los Angeles, CA (see
+http://www.oingo.com) gave a luncheon presentation entitled
+"Meaning-Based Applications: Harnessing Semantic Computation and an
+Ontology for a More Intelligent Search".
+
+The five contributed talks comprising the final afternoon session were given by
+
+Jacob Kogan, University of Maryland, Baltimore County (Clustering Large
+Unstructured Document Sets)
+Reginald Walker, University of California, Los Angeles (Dynamic Load Balancing
+Model: Design and Validation of a Biological Model for a Parallel
+Pseudo-Search)
+Parry Husbands, Lawrence Berkeley National Laboratory (On the Use of the
+Singular Value Decomposition for Text Retrieval)
+Flavio Sartoretto, University of Venezia (A Comparative Analysis of LSI
+Strategies)
+John Caron, UCAR/Unidata (Applying LSA to Online Customer Support: A Trial
+Study)
+
+Abstracts for all the talks presented at CIR'00 are available online
+at http://www.cs.utk.edu/cir00, and SIAM will publish a proceedings of
+the workshop in early 2001. Many of the talks focused on the use of
+Latent Semantic Indexing/Analysis (LSI/A) and alternative vector space
+models for Information Retrieval (IR). Approaches based on less
+computationally demanding techniques such as {\em concept
+decompositions} were shown to quite effective for document clustering
+(I. Dhillon).  Some progress has been made in reducing the SVD-based
+costs of LSI using symbolic techniques common to sparse matrix
+factorization research and graph theory (P. Ragahavan).  A different
+approach to SVD-complexity reduction, based on fast bi-diagonalization
+(short Krylov subspaces) was also presented (A. Ruhe).
+
+Demonstrating optimal performance of LSI/A across different text
+collections remains inconsistent (E. Jessup) and workshop discussions
+on a paradigm shift from "noise reduction" associated with low-rank
+subspace modeling to "noise addition" with more emphasis on the
+statistical significance of additive subspace dimensionality emerged
+(C. Ding, K. Gallivan). Complete IR systems based on LSI/A have been
+designed at Minnesota (BIRDS project, H. Park) and Boeing (TRUST,
+J. Wu), and new application areas such as the automatic detection of
+warranty repair claims (W. Pottenger) have emerged.  The workshop was
+quite successful in outlining future research in vector space IR
+modeling and there is considerable interest in holding a follow-up
+workshop next year (CIR'01).
+

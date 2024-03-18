@@ -1,0 +1,56 @@
+Report on the SIAG/LA  
+International Summer School on Numerical Linear Algebra
+
+This is a report on the SIAG/LA-SIMUMAT International 
+Summer School on Numerical Linear Algebra (ISSNLA) which
+took place at the Centro Internacional de Encuentros Matematicos
+(CIEM) in Castro Urdiales (Spain), July 21-25, 2008.
+
+This first ISSNLA was jointly organized by SIAG/LA and SIMUMAT. SIMUMAT
+(Mathematical Modeling and Simulation in Science and Technology) is a
+Spanish Research Project funded by the Government of the State of Madrid
+that involves four Universities and Research Centers from Madrid. 
+
+The local organizing committee consisted of 
+* Blanca Ayuso, (SIMUMAT-Universidad Autónoma de Madrid)
+* Miguel Angel Benítez, (Administrator Manager of SIMUMAT)
+* Froilán M. Dopico, (SIMUMAT-Universidad Carlos III de Madrid)
+* Alberto Ibort, (SIMUMAT-Universidad Carlos III de Madrid)
+* Juan Manuel Molera, (Universidad Carlos III de Madrid)
+* Julio Moro, (Universidad Carlos III de Madrid)
+
+Three members of this committee (Ayuso, Dopico, and Molera)
+attended the ISSNLA, and took care of the local details.
+
+Four courses were given,
+*  Krylov subspace methods for solving linear systems 
+Michael Eiermann (Technische Universität Bergakademie Freiberg)
+*  Matrix methods in data mining 
+Lars Eldén (Linköping University
+*  Mechanics and linear algebra 
+Richard B. Lehoucq (Sandia National Laboratories)
+*  Structured eigenvalue problems: modern theory and computational practice 
+David S. Watkins (Washington State University)
+
+Fifty graduate students from 18 countries attended the school.
+The country distribution is as follows:
+Belgium 2, Brazil 1, Canada 5, Czech Republic 4, Croatia 3, 
+Germany 9, Ireland 1, Italy 2, Japan 1, Lithuania 1, Norway 1,
+Russia 1, Slovenia 1, Spain 10, Turkey 1, UK 1, USA 5, Venezuela 1.
+
+We should mention that in fact, there were 75 applications.
+The local organizers together with the steering committee
+organized the admissions process. The decision was to admit
+only graduate students, and not people who had already a degree.
+With very few exceptions, all admitted students attended.
+
+Most students shared hotel rooms. Lunches were covered by
+the School, and everyone had their long lunch together.
+
+By all accounts the school was a great success. The lecturers
+and students reported a high level of satisfaction with the
+school.  In particular, students were very enthusiastic both 
+in terms of the lecturers, the courses, the location, and 
+on the camaraderie among the diverse students attending.
+
+We will soon start to plan the 2010 summer school.

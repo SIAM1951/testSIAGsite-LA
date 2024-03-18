@@ -1,0 +1,118 @@
+SOUL SEARCHING FOR LINEAR ALGEBRA
+
+by Osni Marques
+
+
+An edited version of this article appeared in SIAM News, vol. 34,
+no. 1, p. 20 (2001).
+
+
+The 7th SIAM Conference on Applied Linear Algebra was held at the McKimmon
+Conference Center, North Carolina State University (NCSU), Raleigh, on
+October 23-25, 2000. The previous two conferences in the series (1994 and
+1997) were held in the Snowbird Ski and Summer Resort, in Snowbird, Utah.
+While places like Snowbird offer a plethora of outdoor options for more
+adventurous travelers, places like Raleigh seem to be more convenient for
+travelers to reach. In addition, it was also in Raleigh that the first SIAM
+Conference on Applied Linear Algebra took place two decades ago. The mild
+temperatures, the varied colors of the leaves at that time of the year and
+the (now customary) box lunches provided by SIAM contributed to an
+attractive ambiance for discussion and interaction.
+
+This year's conference was shortened by one day, thanks to the inclusion of
+sessions on Tuesday evening. Although this arrangement decreed a busy day
+for the attendees, the outcome was good; the work I co-authored was
+presented in one of the evening sessions and so I was there to witness the
+attendance. The three-day format helped to reduce expenses as well! In
+total, there were 8 invited plenary talks, 9 invited concurrent talks, 20
+concurrent sessions and 9 minisymposia. There were also 8 posters on
+display. The conference organizers, Ilse Ipsen and Carl Meyer (NCSU), pulled
+all that together in fine style.
+
+The conference featured ``classic'' topics such as eigenvalue problems
+(including recent developments in Lanczos-type algorithms), direct and
+iterative methods for the solution of systems of equations and
+preconditioning for iterative methods. Also represented were the computation
+of invariant subspaces, totally nonnegative matrices, matrix completions and
+pseudoinverses, and matrix calculations in image processing, just to name a
+few subjects. The attendees were further entertained by excellent invited
+plenary talks on random perturbations of special matrices, the ubiquitous
+Kronecker product, interior-point methods for optimization, and displacement
+structure, among others.
+
+A challenging topic for discussion during a conference is the status of the
+field in the scientific community. This self-examination was the goal of the
+panel ``Linear Algebra: What's it Worth?'' which was moderated by Daniel
+Pierce (The Boeing Company). The truth is that Linear Algebra is at the
+heart of most computational sciences problems but many of us feel that it
+does not receive adequate (or the expected) credit. The difficulty, one
+panelist pointed out, is that Linear Algebra is in the base of the pyramid
+(``food chain'') and that it almost always arises in another context, such as
+optimization. Does this explain why scientists are sometimes reluctant to
+tell their funding agencies about the importance of research on Linear
+Algebra? Another panelist recalled that in the past, industries hired a
+numerical linear algebraist to tackle a common problem whereas nowadays
+industries hire an expert in the application area hoping that she/he knows
+enough Linear Algebra. Cleve Moler (The MathWorks, Inc) pointed out that
+MathWorks' Matlab is used in many different real applications, from finances
+to car and cell phone design, yet the trend is for Matlab to hide matrix
+computations from the users. By the way, The Mathworks' market value was
+said to be as high as Ben and Jerry's ice cream business. In any case, the
+time required for Linear Algebra research, implementation and then
+simulation or business calculations is usually very long, which makes it
+tougher to assess the value of the initial research. The panel did not come
+out with definitive answers. However, it was suggested that people working
+in Applied Linear Algebra are perhaps not good in public relations. Also,
+there may exist a communication problem: people working in Linear Algebra
+could maybe try to master other groups's language and then talk to them in
+their own terms. One panelist suggested these synonyms should be widely
+disseminated in the Linear Algebra community.
+
+The 2000 Linear Algebra prize was shared by Olga Holtz (University of
+Wisconsin, Madison), and Alan Edelman (MIT), Eric Elmroth and Bo Kagstrom
+(both from Umea University, Sweden). Olga was awarded the prize for her work
+on GKK (after Gantmacher, Krein and Kotelyansky) Tau-matrices described in
+the paper ``Not all GKK tau-matrices are stable? (LAA, 291:235-244, 1999). In
+this paper she disproved four conjectures (three of them more than 20 years
+old) about the properties (positivity of the principal minors, weak sign
+symmetry, eigenvalue motonicity and positive stability) attributed to such
+matrices. Next, Alan, Eric and Bo were awarded the prize for the work
+described in the paper ``A Geometric Approach to Perturbation Theory of
+Matrices and Matrix Pencils. Part I: Versal Deformations'' (SIAM Journal on
+Matrix Analysis and Applications, 18:653-692, 1997) where they derived
+versal deformations of the Kronecker canonical form (the three authors
+managed to use numerical Linear Algebra language in their derivations).
+Roughly speaking, a deformation of a matrix is versal if it captures all
+possible Jordan form behavior, near the matrix.
+
+As a warm-up for the conference, a workshop on computation issues of
+Information Retrieval (IR) took place on Sunday, October 22. The workshop
+was organized by Michael Berry (University of Tennessee at Knoxville). At
+the previous conference in Snowbird, the numerical aspects of IR were
+limited to a few presentations (in the form of posters, with one of them
+winning a special recognition). Since then the field has evolved, gained
+momentum and researchers? attention. As a result, the workshop claimed an
+almost full occupancy. The key issue is that the data associated to the
+nowadays huge collection of documents, such as those coming from web related
+applications, mandate an adequate extraction of features or reduction of the
+models by projecting them into subspaces. Low-rank approximations by means
+of singular value decompositions (SVD) provide the framework for techniques
+like Latent Semantic Indexing (LSI), for example. Following those lines, the
+workshop covered issues arising in dimension reduction, concept
+decompositions, data preprocessing schemes, as well as a probabilistic model
+for IR which lead to the conclusion that LSI/SVD are optimal. A comparative
+analysis of strategies for LSI was also presented. In total, there were 15
+invited and contributed talks in the workshop.
+
+The panel ``Linear Algebra: What's it Worth?'' may not have come out with
+definite answers (that was not the goal) but some real applications
+certainly speak for themselves.  What about ``Cruising at (approximately)
+41000 feet - Iterative Methods at Boeing'' or ``Linear Algebra or Nuclear
+Testing: The Lesser of Two Devils'' (talks given by John Lewis, The Boeing
+Company, and Bruce Hendrickson, Sandia National Laboratories, respectively)?
+Isn't that convincing enough? Three cheers for Applied Linear Algebra!
+
+Osni Marques works at the National Energy Research Scientific Computing
+Center Division (NERSC) of the Lawrence Berkeley National Laboratory (LBNL),
+Berkeley, California.
+
